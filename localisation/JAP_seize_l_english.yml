@@ -1,0 +1,48 @@
+﻿l_english:
+JAP_seize_colonies:0 "Border Security"
+JAP_seize_veetnam:0 "Seize Veetnam"
+JAP_seize_veetnam_desc:0 "With the fall of the Republic, Imperial influence is dangerously close to our nation."
+JAP_seize_vladivostok:0 "Secure the Port of Vladivostok"
+JAP_seize_vladivostok_desc:0 "With the Union taking massive losses in the west, they would be most pliable to a military presence in the east..."
+
+JAP_seize.0.t:0 "Akitsushima Landings In Veetnam"
+JAP_seize.0.d:0 "(Placeholder Description) Annoucing their intentions to \"maintain security\" in the region, the Akitsushima Imperium has landed troops in Veetnam without a formal declaration of war."
+JAP_seize.0.a:0 "No point in fighting over the jungle when we have a war at home."
+JAP_seize.0.b:0 "If it's a fight they want, it's a fight they'll get!"
+
+JAP_seize.1.t:0 "The Francois don't object"
+JAP_seize.1.d:0 "(placeholder desc) The Francois haven't objected to the presence of our troops in Veetnam."
+JAP_seize.1.a:0 "Okay."
+
+JAP_seize.2.t:0 "The Francois say \"No\""
+JAP_seize.2.d:0 "(placeholder desc)The Francois have objected to the presence of our troops in Veetnam."
+JAP_seize.2.a:0 "Press the issue by force."
+JAP_seize.2.b:0 "Back down"
+
+JAP_seize.3.t:0 "The Akitsushima Occupation of Veetnam"
+JAP_seize.3.d:0 "(placeholder desc) The Akitsushima Imperium has occupied the Francois colony of Veetnam, obstinately to preserve peace in the region with the Francois army occupied at home."
+JAP_seize.3.a:0 "Who do they think they're fooling with that explanation?"
+
+JAP_seize.4.t:0 "War in the East"
+JAP_seize.4.d:0 "(placeholder desc) The Akitsushima Imperium has invaded the Francois colony of Veetnam, putting more pressure on the already weakened Republic."
+JAP_seize.4.a:0 "Like a Vulture picking meat off a carcass."
+
+JAP_seize.5.t:0 "Akitsushima Military In Vladivostok"
+JAP_seize.5.d:0 "Annoucing their intentions to \"maintain security\" in the region, the Akitsushima Imperium has moved troops into Vladivostok without a formal declaration of war."
+JAP_seize.5.a:0 "We have more important things to worry about right now."
+JAP_seize.5.b:0 "If it's a fight they want, it's a fight they'll get!"
+
+JAP_seize.6.t:0 "The Russy don't object"
+JAP_seize.6.d:0 "The Russy haven't objected to the presence of our troops in Vladivostok."
+JAP_seize.6.a:0 "Okay."
+
+JAP_seize.7.t:0 "The Russy say \"No\""
+JAP_seize.7.d:0 "The Russy have objected to the presence of our troops in Vladivostok."
+JAP_seize.7.a:0 "Press the issue by force."
+JAP_seize.7.b:0 "Back down"
+JAP_seize.7.c:0 "Karafuto is still ours, right?"
+
+JAP_seize.8.t:0 "The Akitsushima Evacuate the Mainland"
+JAP_seize.8.d:0 "The Akitsushima Imperium has withdrawn all their troops from the mainland, but continues to occupy northern Sakhalin."
+JAP_seize.8.a:0 "We'll deal with them later."
+JAP_seize.8.b:0 "We won't be cheated out of our land."

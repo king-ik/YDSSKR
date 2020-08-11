@@ -1,0 +1,19 @@
+﻿l_english:
+ #Ideas
+ TRK_masters_of_the_desert:0 "Masters of the Desert"
+ TRK_masters_of_the_desert_desc:0 "Centuries of desert life have made our people more accustomed to its unique conditions than any others."
+ TRK_nomad_tradition:0 "Nomadic Traditions"
+ TRK_nomad_tradition_desc:0 "Even though most of our population was no longer nomadic by the turn of the century, our army is still trained to carry on the lifestyle of our hardy forefathers with modern equipment."
+ #Decisions
+ TRK_expansion:0 "The Expansion of [Root.GetNameDef]"
+ TRK_invade_PER:0 "Expansion into [PER.GetName]"
+ TRK_invade_PER_desc:0 "We have shipping lane and oil right disputes with our neighbor [PER.GetName]. We should settle the matter by force.\n\nThis is a timed mission. You must push [PER.GetName]'s surrender progress over §Y50%§! in §Y180§! days to win."
+ TRK_invade_PER_mission:0 "The Gulf War"
+ TRK_invade_PER_mission_desc:0 "As a minor power, we can't invade other countries with impunity. Fortunately, it takes time for the Great Powers to put up a plan to intervene. If we win a decisive victory, they will rather accept the fait accompli than joining a losing war."
+ #Events
+ turkmen.1.t:0 "Peace of [291.GetName]"
+ turkmen.1.d:0 "Following our swift victory in the fields, the [PER.GetAdjective] government has no choice but to cede their territory, knowing that no one will intervene on their side."
+ turkmen.1.a:0 "Victory!"
+ turkmen.2.t:0 "[446.GetName] Mediation"
+ turkmen.2.d:0 "The drawn-out war has caused a significant disruption in trade. The [ALK.GetName] mediation mission in [446.GetName] is now calling for an end of the conflict."
+ turkmen.2.a:0 "We have no choice but to accept."

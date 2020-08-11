@@ -1,0 +1,51 @@
+﻿l_english:
+ EMP_closer_ties_russy_tt:0 "We will improve our relationship with the Russy, we way go economical aid, or influence?"
+ EMP_zettour_reforms_tt:0 "This focus will unlock all recruitment events inside the §YRecruitment Policy§! decision category."
+ EMP_aid_nanjing_tt:0 "We will help the Chinese in order to stop Akitsushima imperialism, we hope this would start deeper relationship in future"
+ EMP_colonial_investissement_tt:0 "The effect of this focus will change following the number of colonies you mange to get back"
+ EMP_parisii_berlun_lines_tt:0 "This focus will had the maximun amount of infrastructure in the states between Parisii and Berlun"
+ EMP_loyalty_to_generals_tt:0 "§YHans von Zettour§!, as well as §YKurt von Rudersdorf§! will be unlocked as military advisors. (§gHistorial Route§!)"
+ EMP_eastern_expansion_tt:0 "§GEastern Expansion§! will now be available."
+ EMP_western_expansion_tt:0 "§GWestern Expansion§! will now be available."
+ EMP_loyalty_to_emperor_tt:0 "§RThis branch is still incomplete and is not recommended to play with.§!"
+ EMP_general_staff_tt:0 "Unlocks §YTanya von Degurechaff§! and §YAdelheid von Schugel§! as military advisors.§!"
+ EMP_border_russy_war_tt:0 "Automatically builds §Ylevel 3§! forts along the Imperial-Russy border."
+ REP_kept_dominance_tt:0 "This choice will decrease the chances of integrating our colonies"
+ REP_solve_national_crisis_tt:0 "§GThe path to solving the economic crisis will open in the form of choosing between two very different ways.§!"
+ REP_economic_collapse_reform_tt:0 "§GLowers§! the impact of the economic collapse national spirit."
+ deloffre_plan_decisions_tt:0 "Unlocks the §YDeloffre's Relief Plan§! decisions."
+ REP_solved_crisis:0 "Has solved the §gEconomic Crisis§!."
+ REP_crisis_curtailed_tt:0 "Unlocks the §GIndustrial§! branch of the focus tree."
+ REP_far_eastern_forts_tt:0 "This focus adds a fort complex designed to defend our far eastern territories in case of a possible §R[JAP.GetNameWithFlag]§! invasion."
+ REP_colonial_divisions_tt:0 "This focus will spawn §Y4§! regiments of elite colonial troops in Guangzhouwan."
+ REP_get_together_tt:0 "We will slowly improve our §Ymilitaristic capabilities§! through this focus branch..."
+ REP_unlocked_military_branch_tt:0 "The §Gmilitary branch§! of the focus tree will be unlocked."
+  REP_release_colonies_tt:0 "We shall ask §Your colonial holdings§! if they desire self-governance or not"
+ REP_unlock_military_branch:0 "Reformed the Defense Ministry."
+ REP_unlock_advisors:0 "This focus unlocks §Yfresh and young new military advisors§! that will help in our war preperation effort."
+ REP_magnier_line:0 "Automatically spawns §Ylevel 4§! forts in all the provinces that share a border with the Empire."
+ 
+
+ DAC_the_republic_tt:0 "§CThis will enhance the investments made by the Republic.§!"
+ DAC_the_empire_tt:0 "§RThis will enhance the investments made by the Empire.§!"
+ DAC_the_middle_tt:0 "§GThis will allow us to court weaker investments from both the Empire and the Republic§!"
+
+ increase_mobilization_tt:0 "§YThis will increase our mobilization law!§!"
+ decrease_mobilization_tt:0 "§YThis will decrease our mobilization law!§!"
+
+ unfinished_content_tt:0 "§R!WARNING!§! This content is unfinished!§R!WARNING!§!"
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

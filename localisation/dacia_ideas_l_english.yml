@@ -1,0 +1,22 @@
+﻿l_english:
+#diplo
+ DAC_friends_of_republic:0 "Friends of Republic"
+ DAC_friends_of_empire:0 "Friends of The Empire"
+ DAC_ignored_us:0 "They Ignored Us"
+ RUSSY_not_sent_us_equipment:0 "Didn't send help"
+ RUSSY_sent_us_equipment:0 "Sent help"
+ DAC_communist_takeover_decision_taken:0 "Communist Takeover"
+#ideas
+ dacia_outdated_army:0 "Outdated Army"
+ dacia_outdated_army_desc:0 "The majority of the army is constituted of infantry divisions using previous era doctrine, marching together as a big mob with one battle in mind to win them all. This should probably work...right?"
+ DAC_idea_business_contracts:0 "Business Contracts"
+ DAC_idea_economic_boom:0 "Economic Boom"
+ DAC_idea_selling_to_both_sides:0 "Selling To Both Sides"
+ DAC_idea_we_are_on_our_own:0 "We Are On Our Own"
+ dacia_patriotism:0 "Dacian Patriotism"
+ dacia_recovering_from_civil_war:0 "Recovering from the Civil War"
+ dacia_civilian_construction:0 "Civilian Construction"
+ ROM_balkans_dominance:0 "Spreading the Revolution"
+ dacia_pride_of_the_old:0 "Pride of the Old"
+ dacia_pride_of_the_old_desc:0 "Our seniors' tactics preserved our nation throughout the last great war, and avoided us to be fully scratched from history. When we will rise up again, our victory is assured by theirs teaching we never pushed aside."
+ 

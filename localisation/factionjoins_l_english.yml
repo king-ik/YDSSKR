@@ -1,0 +1,19 @@
+﻿l_english:
+  faction.1.t:0 "[From.GetName] invites us to the [From.GetFactionName]"
+  faction.1.d:0 "Today the [Root.GetAdjective] Government recieved an offer from [From.GetName] officialy inviting us to the [From.GetFactionName]. All that remains now is our response."
+  faction.1.a:0 "Of course!"
+  faction.1.b:0 "This isn't in our best interest at the moment..."
+
+  faction.2.t:0 "A [From.GetAdjective] envoy..."
+  faction.2.d:0 "Today our Government recieved the reply from [From.GetName]. They have accepted our offer."
+  faction.2.a:0 "Great!"
+
+  faction.3.d:0 "Today our Government recieved the reply from [From.GetName]. They have rejected our offer."
+  #There are actually supposed to be two different replies dependent on World Tension
+  faction.3.a:0 "Damnation!"
+  faction.3.b:0 "We don't need them anyway."
+
+  faction.4.t:0 "[From.GetName] wants to join the [Root.GetFactionName]"
+  faction.4.d:0 "Today the [Root.GetAdjective] Government recieved a message from [From.GetName] containing a formal request to join the [From.GetFactionName]. All that remains now is our response."
+  faction.4.a:0 "The more, the merrier."
+  faction.4.b:0 "We cannot accomodate any more."

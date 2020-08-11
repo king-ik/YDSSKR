@@ -1,0 +1,224 @@
+﻿l_english:
+ YUG_monarchism:0 "Kingdom of Hiltria"
+ YUG_monarchism_DEF:0 "The Kingdom of Hiltria"
+ YUG_monarchism_ADJ:0 "Hiltrian"
+ 
+ ICE_monarchism:0 "Icelandic Realm"
+ ICE_monarchism_DEF:0 "The Icelandic Realm"
+ ICE_monarchism_ADJ:0 "Icelandic"
+ 
+ ALG_monarchism:0 "Kingdom of Algeria"
+ ALG_monarchism_DEF:0 "The Kingdom of Algeria"
+ ALG_monarchism_ADJ:0 "Algerian"
+ 
+ NGR_monarchism:0 "Kingdom of the Niger"
+ NGR_monarchism_DEF:0 "The Kingdom of the Niger"
+ NGR_monarchism_ADJ:0 "Nigerien"
+ 
+ DAH_monarchism:0 "Kingdom of the Benin"
+ DAH_monarchism_DEF:0 "The Kingdom of the Benin"
+ DAH_monarchism_ADJ:0 "Beninese"
+ 
+ TOG_monarchism:0 "Kingdom of Togoland"
+ TOG_monarchism_DEF:0 "The Kingdom of Togoland"
+ TOG_monarchism_ADJ: "Togolese"
+ 
+ VOL_monarchism:0 "Burkinabé's Monarchy"
+ VOL_monarchism_DEF:0 "The Burkinabé's Monarchy"
+ VOL_monarchism_ADJ:0 "Burkinabé"
+ 
+ MLI_monarchism:0 "Empire of Mali"
+ MLI_monarchism_DEF:0 "The Empire of Mali"
+ MLI_monarchism_ADJ:0 "Malian"
+ 
+ IVO_monarchism:0 "Pure Elephant Empire"
+ IVO_monarchism_DEF:0 "The Pure Elephant Empire"
+ IVO_monarchism_ADJ:0 "Ivorian"
+ 
+ LIB_monarchism:0 "Liberian Kingdom"
+ LIB_monarchism_DEF:0 "The Liberian Kingdom"
+ LIB_monarchism_ADJ:0 "Liberian"
+ 
+ GNA_monarchism:0 "Kingdom of Guinea"
+ GNA_monarchism_DEF:0 "The Kingdom of Guinea"
+ GNA_monarchism_ADJ:0 "Guinean"
+ 
+ MRT_monarchism:0 "Mauritanian Sultanat"
+ MRT_monarchism_DEF:0 "The Mauritanian Sultanat"
+ MRT_monarchism_ADJ:0 "Mauritanian"*
+ 
+ CHA_monarchism:0 "Chad Empire"
+ CHA_monarchism_DEF:0 "The Chad Empire"
+ CHA_monarchism_ADJ:0 "Chadian"
+ 
+ CMR_monarchism:0 "Cameroonian Kingdom"
+ CMR_monarchism_DEF:0 "The Cameroonian Kingdom"
+ CMR_monarchism_ADJ:0 "Cameroonian"
+ 
+ CAR_monarchism:0 "Central African Empire"
+ CAR_monarchism_DEF:0 "the Central African Empire"
+ CAR_monarchism_ADJ:0 "Central African"
+ 
+ GAB_monarchism:0 "Gabonese Monarchy"
+ GAB_monarchism_DEF:0 "The Gabonese Monarchy"
+ GAB_monarchism_ADJ:0 "Gabonese"
+ 
+ RCG_monarchism:0 "Kingdom of Congo"
+ RCG_monarchism_DEF:0 "The Kingdom of Congo"
+ RCG_monarchism_ADJ: "Congolese"
+ 
+ COG_monarchism:0 "The Kongo"
+ COG_monarchism_DEF:0 "The Kongo"
+ COG_monarchism_ADJ:0 "Kongolese"
+ 
+ SUD_monarchism:0 "Neo Nubian Empire"
+ SUD_monarchism_DEF:0 "The Neo Nubian Empire"
+ SUD_monarchism_ADJ:0 "Nubian"
+ 
+ ETH_monarchism:0 "Abyssinia"
+ ETH_monarchism_DEF:0 "Abyssinia"
+ ETH_monarchism_ADJ:0 "Abyssinian"
+ 
+ KEN_monarchism:0 "West African Empire"
+ KEN_monarchism_DEF:0 "The West African Empire"
+ KEN_monarchism_ADJ:0 "West African"
+ 
+ RWA_monarchism:0 "Kingdom of Rwanda"
+ RWA_monarchism_DEF:0 "The Kingdom of Rwanda"
+ RWA_monarchism_ADJ:0 "Rwandan"
+ 
+ BRD_monarchism:0 "Kingdom of Burundi"
+ BRD_monarchism_DEF:0 "The Kingdom of Burundi"
+ BRD_monarchism_ADJ:0 "Burundi"
+ 
+ ANG_monarchism:0 "Kingdom of Angola"
+ ANG_monarchism_DEF:0 "the Kingdom of Angola"
+ ANG_monarchism_ADJ:0 "Angolan"
+ 
+ ZAM_monarchism:0 "Zambian Kingdom"
+ ZAM_monarchism_DEF:0 "The Zambian Kingdom"
+ ZAM_monarchism_ADJ:0 "Zambian"
+ 
+ MLW_monarchism:0 "Malawian Kingdom"
+ MLW_monarchism_DEF:0 "The Malawian Kingdom"
+ MLW_monarchism_ADJ:0 "Malawian"
+ 
+ MZB_monarchism:0 "Mozambican Kingdom"
+ MZB_monarchism_DEF:0 "The Mozambican Kingdom"
+ MZB_monarchism_ADJ:0 "Mozambican"
+ 
+ ZIM_monarchism:0 "Kingdom of Rhodesia"
+ ZIM_monarchism_DEF:0 "The Kingdom of Rhodesia"
+ ZIM_monarchism_ADJ:0 "Rhodesian"
+ 
+ SAF_monarchism:0 "Empire of South Africa"
+ SAF_monarchism_DEF:0 "The Empire of South Africa"
+ SAF_monarchism_ADJ:0 "South African"
+ 
+ PER_monarchism:0 "Empire of Persia"
+ PER_monarchism_DEF:0 "The Empire of Persia"
+ PER_monarchism_ADJ:0 "Persian"
+ 
+ AFG_monarchism:0 "Afghan Sultanat"
+ AFG_monarchism_DEF:0 "The Afghan Sultanat"
+ AFG_monarchism_ADJ:0 "Afghan"
+ 
+ VIN_monarchism:0 "Empire of Vietnam"
+ VIN_monarchism_DEF:0 "The Empire of Vietnam"
+ VIN_monarchism_ADJ:0 "Vietnamese"
+ 
+ FIN_monarchism:0 "Duchy of Finland"
+ FIN_monarchism_DEF:0 "The Duchy of Finland"
+ FIN_monarchism_ADJ:0 "Finnish"
+ 
+ EST_monarchism:0 "Kingdom of Estonia"
+ EST_monarchism_DEF:0 "The Kingdom of Estonia"
+ EST_monarchism_ADJ:0 "Estonian"
+ 
+ LAT_monarchism:0 "Latvian Kingdom"
+ LAT_monarchism_DEF:0 "The Latvian Kingdom"
+ LAT_monarchism_ADJ:0 "Latvian"
+ 
+ LIT_monarchism:0 "Grand Duchy of Lithuania"
+ LIT_monarchism_DEF:0 "The Grand Duchy of Lithuania"
+ LIT_monarchism_ADJ:0 "Lithuanian"
+ 
+ BLR_monarchism:0 "Duchy of Belarus"
+ BLR_monarchism_DEF:0 "The Duchy of Belarus"
+ BLR_monarchism_ADJ:0 "Belarusian"
+ 
+ UKR_monarchism:0 "Kievan Rus"
+ UKR_monarchism_DEF:0 "Kievan Rus"
+ UKR_monarchism_ADJ:0 "Kievan"
+ 
+ GEO_monarchism:0 "Caucasus Duchy"
+ GEO_monarchism_DEF:0 "The Caucasus Duchy"
+ GEO_monarchism_ADJ:0 "Caucasian"
+ 
+ ARM_monarchism:0 "Armenian Empire"
+ ARM_monarchism_DEF:0 "The Armenian Empire"
+ ARM_monarchism_ADJ:0 "Armenian"
+ 
+ AZR_monarchism:0 "Great Azeri Duchy"
+ AZR_monarchism_DEF:0 "The Great Azeri Duchy"
+ AZR_monarchism_ADJ:0 "Azeri"
+ 
+ KAZ_monarchism:0 "Kazan Khanate"
+ KAZ_monarchism_DEF:0 "The Kazan Khanate"
+ KAZ_monarchism_ADJ:0 "Kazan"
+ 
+ KYR_monarchism:0 "Kyrgyz Khanate"
+ KYR_monarchism_DEF:0 "The Kyrgyz Khanate"
+ KYR_monarchism_ADJ:0 "Kyrgyz"
+ 
+ TAJ_monarchism:0 "Tajik Khanate"
+ TAJ_monarchism_DEF:0 "The Tajik Khanate"
+ TAJ_monarchism_ADJ:0 "Tajik"
+ 
+ UZB_monarchism:0 "Uzbek Khanate"
+ UZB_monarchism_DEF:0 "The Uzbek Khanate"
+ UZB_monarchism_ADJ:0 "Uzbek"
+ 
+ TMS_monarchism:0 "Timurid Empire"
+ TMS_monarchism_DEF:0 "The Timurid Empire"
+ TMS_monarchism_ADJ:0 "Timurid"
+ 
+ PAK_monarchism:0 "Pakistani Empire"
+ PAK_monarchism_DEF:0 "The Pakistani Empire"
+ PAK_monarchism_ADJ:0 "Pakistani"
+ 
+ RAJ_monarchism:0 "The Raj"
+ RAJ_monarchism_DEF:0 "The Raj"
+ RAJ_monarchism_ADJ:0 "Indian"
+ 
+ NEP_monarchism:0 "Holy Himalayan Realm"
+ NEP_monarchism_DEF:0 "The Holy Himalayan Realm"
+ NEP_monarchism_ADJ:0 "Himalayan"
+ 
+ BHU_monarchism:0 "Bhutanese Realm"
+ BHU_monarchism_DEF:0 "The Bhutanese Realm"
+ BHU_monarchism_ADJ:0 "Bhutanese"
+ 
+ SIA_monarchism:0 "Siamese Empire"
+ SIA_monarchism_DEF:0 "The Siamese Empire"
+ SIA_monarchism_ADJ:0 "Siamese"
+ 
+ CHI_monarchism:0 "Chinese Empire"
+ CHI_monarchism_DEF:0 "The Chinese Empire"
+ CHI_monarchism_ADJ:0 "Chinese"
+ 
+ PHI_monarchism:0 "Kingdom of the Philippines"
+ PHI_monarchism_DEF:0 "The Kingdom of the Philippines"
+ PHI_monarchism_ADJ:0 "Philippines"
+ 
+ AST_monarchism:0 "United Kingdom of Australia"
+ AST_monarchism_DEF:0 "The United Kingdom of Australia"
+ AST_monarchism_ADJ:0 "Australian"
+ 
+ NZL_monarchism:0 "Grand Maori Kingdom"
+ NZL_monarchism_DEF:0 "The Grand Maori Kingdom"
+ NZL_monarchism_ADJ:0 "Maori"
+ 
+ MEX_monarchism:0 "Mexican Empire"
+ MEX_monarchism_DEF:0 "The Mexican Empire"
+ MEX_monarchism_ADJ:0 "Mexican"

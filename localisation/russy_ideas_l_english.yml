@@ -1,0 +1,40 @@
+﻿l_english:
+ #Russy
+ RUS_dockyard_capacity_increased:0 "Dockyard Building Capacity Increased"
+
+ RUS_all_men_must_carry_a_gun:0 "All men must Carry a Gun"
+ 
+ RUS_total_warface:0 "Total Warface"
+ 
+ RUS_military_university:0 "The Moscow Military University"
+ 
+ RUS_faster_training:0 "Reduced Time Training"
+ 
+ RUS_army_research_department:0 "The Army Research Department"
+ 
+ RUS_fanatized_army:0 "Fanatized Army"
+
+ RUS_mass_plane_production:0 "Mass Plane Production"
+ 
+ RUS_build_communist_realm:0 "Communist Realms Building"
+ 
+ RUS_spreading_preparation:0 "The Great Russy Spreading Preparation"
+ 
+ RUS_disloyal_army:0 "Disloyal Army"
+
+ RUS_rebelious_army:0 "Rebelious Army"
+ 
+ RUS_worldwide_union_building:0 "Worldwide Union Building"
+ 
+ RUS_political_opposition:0 "Political Opposition"
+ 
+ #Capital bombed by mission/event
+ RUS_capital_bombed:0 "[219.GetName] Raided"
+ RUS_capital_bombed_desc:0 "The capital of the revolution, [219.GetName], has been ravaged by [EMP.GetAdjective] mages. We must fortify our cities against air raids, lest this happens again."
+ 
+ 
+ 
+ 
+ 
+ 
+ 

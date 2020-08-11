@@ -1,0 +1,79 @@
+﻿l_english:
+operation.1.t:0 "All is quiet on the Western Front..."
+operation.1.d:0 "... however, our recon mages are reporting of Imperial movments in the rear. We know that they are planning something, but God knows what it actually is."
+operation.1.a:0 "Worrying."
+
+operation.2.t:0 "Rhineland headquarters destroyed!"
+operation.2.d:0 "The last communication between our central command and the Rhineland headquarters was in the wee hours of the morning, and was found destroyed later in the day. Our front lines have been left without a central command, severely limiting their ability to co-ordinate between units."
+operation.2.a:0 "So that's what the damned Empire was planning!"
+
+operation.3.t:0 "BOOM!"
+operation.3.d:0 "The Empire has set off a series of explosive charges planted under our front lines. The effects are exactly what you'd expect."
+operation.3.a:0 "PUTAIN DE MERDE!"
+
+operation.4.t:0 "Revolving Door has failed."
+operation.4.d:0 "The war in the Rhine rages on just as before, with the General Staff coming under attack for their percieved incompentence."
+operation.4.a:0 "We won't be able to take another gamble like that for a long time."
+
+operation.5.t:0 "Revolving Door is a resounding success!"
+operation.5.d:0 "The greatest encirclement in military history has occured, and Republican forces are bravely resisting while under attack from all sides, to no avail."
+operation.5.a:0 "Historians shall write many books about this day."
+operation.5.b:0 "The Empire's military supremacy has truly been shown."
+
+operation.6.t:0 "Imperial Troop Movements in the West"
+operation.6.d:0 "(Placeholder desc) All signs point to the Empire renewing their offensive in the near future."
+operation.6.a:0 "Concerning..."
+
+operation.7.t:0 "Operation Andromeda fails"
+
+operation.8.t:0 "Operation Andromeda succeeds"
+
+operation.9.t:0 "Arene Reclaimed"
+operation.9.d:0 "Placeholder description"
+operation.9.a:0 "A glorious day for the Republic"
+
+operation.10.t:0 "Slaughter in Arene"
+operation.10.d:0 "Placeholder description"
+operation.10.a:0 "A dark day for the Republic"
+
+operation.11.t:0 "Revolt in Arene"
+operation.11.d:0 "Placeholder description"
+operation.11.a:0 "Crush them now!"
+
+operation.12.t:0 "Rhineland Occupied"
+operation.12.d:0 "Placeholder description"
+
+operation.13.t:0 "Rhineland Push Failed"
+operation.13.d:0 "Placeholder description"
+
+operation.14.t:0 "All is quiet in the West..."
+operation.14.d:0 "Placeholder description"
+operation.14.a:0 "Worrying..."
+
+
+YOUJO_DECAPITATED_TOOLTIP:0 "The Rhineland headquarters have been destroyed, taking with it much of the Republic's military prowess."
+
+REP_arene_hold_tooltip:0 "§RAfter the revolt begins, Arene must not be occupied by the Empire for at least 30 days!§!"
+
+EMP_great_war_operations:0 "Military Operations"
+REP_great_war_operations:0 "Military Operations"
+
+
+EMP_revolving_door_prep:0 "Draft Operation Revolving Door"
+EMP_revolving_door_prep_desc:0 ""
+
+revolving_door_prepped:0 "Operation Revolving Door has been prepared"
+
+EMP_revolving_door:0 "Operation Revolving Door"
+
+EMP_lock_pick:0 "Operation Lock Pick"
+
+EMP_shock_and_awe:0 "Operation Shock and Awe"
+
+EMP_andromeda:0 "Operation Andromeda"
+
+REP_arene_revolt:0 "Stir Up Revolt in Arene"
+REP_relieve_arene:0 "Relieve Arene"
+
+REP_fleeing_to_north_africa:0 "Establishing a Provisional Capital in Turusia"
+REP_the_journey_home:0 "Return to Parsii"

@@ -1,0 +1,7 @@
+﻿l_english:
+ stratified_rule:0 "Stratified Rule"
+ business_sabotage_decrease_tooltip:0 "  Resource Sabotage Chance: §G-25%§!\n  Civilian Factory Sabotage Chance: §G-25%§!"
+ business_sabotage_decrease_tooltip_ADDED:0 "  Resource Sabotage Chance: §G-25%§! (§G-25%§!)\n  Civilian Factory Sabotage Chance: §G-25%§! (§G-25%§!)"
+ business_sabotage_decrease_tooltip_REMOVED:0 "  Resource Sabotage Chance: §H+0%§! (§R+25%§!)\n  Civilian Factory Sabotage Chance: §H+0%§! (§R+25%§!)"
+ business_sabotage_decrease_tooltip_UNCHANGED:0 "  Resource Sabotage Chance: §G-25%§! (§H+0%§!)\n  Civilian Factory Sabotage Chance: §G-25%§! (§H+0%§!)"
+ 

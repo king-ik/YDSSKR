@@ -1,0 +1,19 @@
+﻿l_english:
+ ### Categories ###
+ LEG_economic_decisions:0 "Economic Stabilization"
+ LEG_economic_decisions_desc:0 "We have many tools at our disposal to curtail the economic problems at home."
+ LEG_mare_nostrum_decisions:0 "Mare Nostrum"
+ LEG_mare_nostrum_decisions_desc:0 "With the resurgence of [ROOT.GetName], we are now ready to reintegrate areas in our former sphere of influence."
+ ### Decisions ###
+ LEG_pay_debts:0 "Buy Back Bonds"
+ LEG_pay_debts_desc:0 "We can buy back bonds we issued with a short term austerity to reduce the interest we have to pay in the long run."
+ LEG_public_works:0 "Fund Public Works"
+ LEG_public_works_desc:0 "We can fund public works to reduce unemployment at a cost."
+ LEG_integrate_state:0 "Integrate [FROM.GetName]"
+ LEG_integrate_state_desc:0 ""
+ LEG_integrate_empire:0 "Integrate [FROM.GetName]"
+ LEG_integrate_empire_desc:0 ""
+ LEG_norden_war_decisions:0 "War in Norden"
+ LEG_norden_war_decisions_desc:0 ""
+ LEG_norden_war_mission:0 "Take control of [138.GetName]"
+ LEG_norden_war_mission_desc:0 ""

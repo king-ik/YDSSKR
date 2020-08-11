@@ -1,0 +1,981 @@
+﻿l_english:
+ #events
+ empire.0.t:0 "Partition of Hiltria: Hiltria Submits"
+ empire.0.d:0 "With no hope of maintaining the façade of a country, the nominal government of Hiltria has agreed to let foreign forces assume control."
+ empire.0.a:0 "Hiltria is now part of our country."
+ empire.0.b:0 "Joint occupation with Magna Rumeli."
+ empire.0.c:0 "Joint occupation with Magna Rumeli and Dacia."
+ empire.0.delta:0 "Joint occupation with Dacia."
+ #empire.1.t:0 "Never Give Up Imperial Territory"
+ #empire.1.d:0 "Although we want to avoid war at all costs, we are not willing to cede any of our imperial territories to our neighbors. Especially not Scania, as it's the only state that gives us access to mainland Legadonia."
+ #empire.1.a:0 "Never!"
+ empire.1.t:0 "Partition of Hiltria: Invite Claimants"
+ empire.1.d:0 "Hiltria's situation has been a thorn to its neighbors' side for the last decade. Political and ethnic strifes plague the country, and its inevitable breakup or civil war will affect all its neighbors. It's time we take matters into our own hands to diffuse this bomb."
+ empire.1.a:0 "Invite Magna Rumeli."
+ empire.1.b:0 "Invite both Magna Rumeli and Dacia."
+ empire.1.c:0 "Invite Dacia."
+ empire.1.delta:0 "We will not share Hiltria with anyone else."
+ empire.2.t:0 "Partition of Hiltria: [FROM.GetName]'s Invitation"
+ empire.2.d:0 "[FROM.GetName] has invited us to press our claims on Hiltria together. Should Hiltria refuse to submit, we will declare war on Hiltria together."
+ empire.2.a:0 "Of course"
+ empire.2.b:0 "It's too risky"
+ empire.3.t:0 "Partition of Hiltria: Response from [FROM.GetName]"
+ empire.3.d_yes:0 "[FROM.GetName] agreed to our proposal to split Hiltria together, and their foreign minister has cosigned our ultimatum to Hiltria."
+ empire.3.d_no:0 "[FROM.GetName] politely turned down our proposal to split Hiltria together. It seems like they are afraid of risking a war."
+ empire.3.a:0 "Okay"
+ empire.4.t:0 "Partition of Hiltria: Ultimatum"
+ empire.4.d:0 "All the claimants have cosigned our ultimatum to Hiltria. The only thing left is to present it to the Hiltrian government."
+ empire.4.a:0 "Submit. Or else."
+ news.910.t:0 "The Empire Refuses to Hand Over Scania"
+ news.910.d:0 "After hours of failed negotiations with the major powers, the Empire officials in Stockholm left with a clear answer of no. The Ildoa Kingdom and Magna Rumeli also left, as to show their support for the decision of the Empire. It is said that the officials of the allied countries of France and Sweden were furious, and left shortly after them."
+ news.910.a:0 "Is war coming?"
+ legadonia.500.t:0 "The Empire Refuses"
+ legadonia.500.d:0 "After failed negotiations, Empire officials left the negotiating room with a clear answer of no. Should we call for mobalisation, or should we just give up trying to recover our precious and rightous territory?"
+ legadonia.500.a:0 "It is war then"
+ legadonia.500.b:0 "We cannot aford a war with the Empire"
+ legadonia.501.t:0 "A Chance to take the Scania Region!"
+ legadonia.501.d:0 "The Empire is still recovering from the 1918 Industrial Disaster that hit it. Its people are very poor, and its military is greatly short-handed. This is probably our last chance to strike fast, overwhelm the Imperial garrison there and take back our lost region of Scania. We have received a secret message from the Francois Republic that they will aid us in case of war, too. This is the ideal scenario, let's strike!"
+ legadonia.501.a:0 "Start the border war!"
+ legadonia.501.b:0 "We can't risk losing."
+ #empire.2.t:0 "Legadonia Accepts"
+ #empire.2.d:0 "The Legadonian government has just sent us a message stating that they accept our kind offer. Our troops in the region of Scania are expected to leave in 24 hours, and same goes to the Legadonian troops in Gotland."
+ #empire.2.a:0 "A wise choice"
+ #empire.3.t:0 "Legadonia Rejects"
+ #empire.3.d:0 "The Legadonian government has just sent us a message claiming it will not give away any of the rightous Legadonian lands, and that Scania and Gotland should both be in the hands of the Legadonian Federation. Our government is still amused, as Scania is worth a lot more than the petty island of Gotland.  It seems we have been humiliated."
+ #empire.3.a:0 "Damn the Legadonians"
+ #empire.4.t:0 "Handing over Scania"
+ #empire.4.d:0 "We have decided to hand over scania to its rightful ruler, the Legadonian Federation. Now, the chances of a great war breaking in Europe are close to zero. We did the right thing, and now the world is going to start respect us."
+ #empire.4.a:0 "We brought peace upon Earth"
+ news.912.t:0 "Legadonia Rejects the Scania-Gotland Deal"
+ news.912.d:0 "Earlier this morning, the Legadonian government stated that it will never trade Gotland away, especially not to the Empire. The world is amused as Legadonia probably lost the only way out of war. Empire officials claimed that the Legadonian government is filled with fools, as for not accepting the kind offer."
+ news.912.a:0 "A bad mistake? Or a good strategy?"
+ news.911.t:0 "The Scania-Gotland Deal"
+ news.911.d:0 "Earlier this morning, the Empire and the Legadonian Federation has signed an official treaty proclaiming the transfer of Scania to the Legadonian Federation and Gotland to the Empire. It was reported that the Scanian population was cheering at the arriving Legadonian troops. Although the population of Gotland didn't put up any resistance, they weren't so happy about the arriving Empire troops."
+ news.911.a:0 "Peace is restored to the region"
+ news.913.t:0 "The Empire hands over Scania"
+ news.913.d:0 "Only hours ago, the Empire has peacefuly handed over the Scanian region in mainland Sweden to the Legadonian Federation. Empire and Legadonian officials have both stated that relations now will be much better, and a conflict was successfuly avoided. The Scanian population was reported cheering when the Legadonian forces have arrived, and no resistence was put up. "
+ news.913.a:0 "The borders look much better now!"
+ empire.5.t:0 "Partition of Hiltria: Hiltria Rejects"
+ empire.5.d:0 "The Hiltrian government has rejected our demand to take over the country. It seems that we will have to resolve the Hiltrian issue by force."
+ empire.5.a:0 "To war!"
+ ildoa.20.t:0 "The Istria Crisis"
+ ildoa.20.d:0 "The Empire has just sent us an ultimatum stating the 'rightful return' of the region of Istria. They state that Istria was always under their influence, and once was theirs, until it was 'stolen' by us. Of course, all of these are lies but we do not have the military capability to fight against the might of the Empire. What shall we do?"
+ ildoa.20.a:0 "Accept"
+ ildoa.20.b:0 "Decline"
+ ildoa.21.t:0 "Istria Lost!"
+ ildoa.21.d:0 "After ruthless fighting, Imperial troops have successfuly invaded Istria. Our troops, although inferior in both equipment and numbers have been fighting ever since, but it seems we cannot hold the enemies back anymore. The purpose of the war, defending the Istria region from the enemies, has been lost and the rest of our country will be the next target. Our cowardly generals suggest that we should surrender to 'avoid any more civilian casualties'. Should we surrender, or keep fighting until the last man dies?"
+ ildoa.21.a:0 "We must surrender."
+ ildoa.21.b:0 "Never surrender!"
+ empire.6.t:0 "Ildoa Submits"
+ empire.6.d:0 "The Ildoans are not fools, they know how to avoid a war they cannot win. The last of the Ildoan troops has just left the Istria region, and our forces are starting to move in. This is a great move my emperor, both strategicly and economicly. With Istria in our hands, we own an entrance to the Adriatic Sea, a sea we must control to support our militaristic ambitions."
+ empire.6.a:0 "Another victory for the Vaterland!"
+ empire.7.t:0 "Ildoa Rejects"
+ empire.7.d:0 "The Ildoans are fools to believe they are safe behind their petty little army. The Empire would never give up, even if it means war with the entire world! The time has come to achieve another of our great nation's militaristic ambitions!"
+ empire.7.a:0 "To war, men of the eternal empire!"
+ news.914.t:0 "The Istria Crisis"
+ news.914.d:0 "Only hours ago, a war could have broken out if the Ildoan Kingdom did not submit to the Empire's demands of annexing the region of Istria. Although both nations are on good terms with each other, and sometimes even cooperate together in militaristic missions and trade agreements, the Empire's surprising demand was accepted by the Ildoan Kingdom.  At last, peace is restored to the region and the Istrian population was reported cheering at the entering Imperial troops. Europe has become a dangerous place, as nationalism is spreading throughout the world, and in any given moment, any country could start a great war for the sake of a little county."
+ news.914.a:0 "Today we are safe."
+ news.914.b:0 "Damn them!"
+ news.914.c:0 "Glory to the Empire!"
+ empire.8.t:0 "The Paris Conference"
+ empire.8.d:0 "Today marks the first day of the 'Paris Conference', a global 3-day conference which is, like the name states, held in Paris and consists of delegates from the Francois Republic, the Allied Kingdom, the Legadonian Federation, Dacia, Waldstatten, the Ildoa Kingdom and Ispania. Republican officials stated earlier that the conference is held to help European countries with the current economy crisis around the world, but it is obvious that it's about the Empire aggression lately. Out of the seven participating countries, only France, the Allied Kingdom and the Legadonian Federation signed a defensive alliance. However, all of the countries signed the economic pact the conference offered. Overall, the conference was considered a failure by the Republicans as only 3 countries signed a defensive treaty against the Empire. "
+ empire.8.a:0 "It wasn't as successful as we thought it would be"
+ empire.8.b:0 "It was great"
+ empire.8.c:0 "It was great"
+ empire.8.z:0 "It was great"
+ empire.8.e:0 "It was great"
+ empire.8.f:0 "It was great"
+ empire.8.g:0 "It was great"
+ empire.8.h:0 "What a useless conference...it's not like we're going to conquer the world...right?"
+ news.915.t:0 "The Paris Conference"
+ news.915.d:0 "The Paris Conference was recently held in Paris in order to overseer the Empire's expansion lately. It also offered a solution to the 20th century economic crisis through economic cooperation between the participating countries. It was reported that the conference has failed to meet its goal of creating a seven-nation-coalition against the Empire. "
+ news.915.a:0 "It was great"
+ news.915.b:0 "A useless conference"
+ empire.9.t:0 "Triumph in Europe"
+ empire.9.d:0 "At last, we have united all of Europe under our imperial banner. Now, we are the mightiest and most powerful nation in the entire world. We posses the power no one possessed before. We must continue to dominant Europe and the world, and never fall apart."
+ empire.9.a:0 "For the Vaterland!"
+ news.916.t:0 "The Republic Occupies Alsace"
+ news.916.d:0 "Earlier this morning, Republican troops have moved swiftly through the Republic-Empire border and occupied Alsace. Republican officials have claimed that Alsace was always a state of the Republic, and it should stay that way. It seems that by giving away Scania to the Legadonia Federation, a new weakness of the Empire was shown to the world, and new countries are beginning to claim imperial territories for themselves."
+ news.916.a:0 "Eternal peace? Or more claims?"
+ news.917.t:0 "Czechoslovakia is Free!"
+ news.917.d:0 "Further military ultimatums have been placed on the Empire by its surronding neighbors, and thus it had to release the nation of the Czechs and Slovaks, because if not - many Czechs and Slovaks have threatened to gather a rebellion to overthrow the Empire. The democratic republic was proclaimed although not many nations have rushed to open diplomatic relations with it."
+ news.917.a:0 "It was just rightful"
+ news.917.b:0 "Damn them!"
+ republic.500.t:0 "The Empire Seeks to Join us"
+ republic.500.d:0 "It seems that now the Empire is not a threat to Europe anymore, and that means that we could collaborate with them for the future of Europe and the world. They requested to join our military alliance, which means that we could double our strength if we invite them in. What should we decide?
+ republic.500.a:0 "Accept"
+ republic.500.b:0 "Refuse"
+ empire.10.t:0 "The Republic Accepts"
+ empire.10.d:0 "The Republic just sent us a letter that they accept our offer, and now we may collaborate and cooperate with each member of the alliance. The future of Europe is now secured, and we shall look forward to help the world."
+ empire.10.a:0 "At last!"
+ empire.11.t:0 "The Republic Rejects"
+ empire.11.d:0 "It seems that the Republic rejected our offer to join their military alliance. After all we did, after we gave away imperial lands and released entire nations, they say no? We showed the entire world that we are not a threatening force, and yet the world does not accept it."
+ empire.11.a:0 "We must get revenge!"
+ news.918.t:0 "The Empire sells Jutland"
+ news.918.d:0 "The Legadonian Federation has accepted to buy the Jutland region from the Empire in exchange for ending all hostilities between the two countries. The last Empire soldier left Jutland this morning and many imperial citizens have moved out to the new border to stay in their former country. The population in the region did not seem so happy about joining the Legadonian Federation, as it does not offer as much as the Empire does."
+ news.918.a:0 "Jutland is no longer an imperial territory"
+ empire.12.t:0 "The Allied Kingdom Accepts"
+ empire.12.d:0 "Long ago, when we first set foot on the African continent, we thought we will become richer from its resources, amd a lot more powerful that we finaly have a foothold in Africa. It seems that nothing has changed since then, except that we now have to waste a lot of money to maintain our colony. It will be much better to obtain a foothold in Asia though. We will be able to trade more with the numerous Asian countries in the region, and it will also enable us to send troops far away from our home to aid our distant allies. "
+ empire.12.a:0 "For a more prosperous Vaterland!"
+ republic.501.t:0 "Dismantle Our Faction?"
+ republic.501.d:0 "We've created this so-called military alliance for the sole purpose of defending against the might of the Empire. But now, as we saw it does no longer pose a threat to Europe, this military alliance has no goal whatsoever. The Empire has recently asked us to dismantle this military alliance, as it is now a threat to the Empire's safety. What should we do? Dismantling the alliance comes at a price. We will no longer recieve any aid from our strong allies."
+ republic.501.a:0 "Accept"
+ republic.501.b:0 "Refuse"
+ empire.13.t:0 "The Republic Accepts" 
+ empire.13.d:0 "It seems that we have recieved a positive answer from the Republic, and the coalition will soon disband. We did not threaten anyone ever, and this military alliance was created for the sole purpose of attacking us. Now, we are finally safe."
+ empire.13.a:0 "At last!"
+ empire.14.t:0 "The Republic Refuses"
+ empire.14.d:0 "The treacharous Republic refused our request to dismantle their coalition, even though we are not a threat to Europe anymore. This just shows that the sole purpose of the alliance was not to defend against us, it was to attack us. We must prepare for the worst, and mobilize our forces to crush it!"
+ empire.14.a:0 "The Fatherland will never fall!"
+ empire.15.t:0 "Release Czechoslovakia"
+ empire.15.d:0 "For centuries the Czech and Slovak people have been opressed by our rule. The time has come to release those nations and make their people free. Hopefuly, our neighbors will be happy and leave us to be."
+ empire.15.a:0 "Hey, new neighbor!"
+ empire.16.t:0 "The Russy Federation Must Pay"
+ empire.16.d:0 "The Russy Federation has always been a threatening force on our eastern border. It is obvious that if we will not declare the war soon, they will. We must make them pay in blood for the terror they brought to the world!"
+ empire.16.a:0 "Declare a Holy War!"
+ empire.17.t:0 "The Republic Must Pay"
+ empire.17.d:0 "It is time to destroy our mortal enemies. Those who seek to destroy our mighty empire. Those who seek to devastate our people. We must eradicate them from our world and bring peace and prosperity to the Central Powers and Europe!"
+ empire.17.a:0 "It is time!"
+ empire.21.t:0 "Purge the Army"
+ empire.21.d:0 "The time has come to purge the unfaithful from our banners, and replace them with man who are loyal to our new proclaimed republic. This very important move might create a bit chaos and maybe even a small mutinity, but it will purify our armies and make them better in the end. What should we choose, dear president? "
+ empire.21.a:0 "The Purge Begins!"
+ empire.21.b:0 "Nevermind. It would prove too costly."
+ empire.22.t:0 "Declaration of Democracy"
+ empire.22.d:0 "We have finally defeated our monarchist foes. We have finally removed the monarchy from power. At last, it is time to remake the constitution and spread democracy to the rest of our lands and maybe even further. We have a bright future ahead of us, we must stabilize our realm and make our citizens happy!"
+ empire.22.a:0 "For a new and lasting peace!"
+ empire.23.t:0 "Berlun Promise"
+ empire.23.d:0 "Our empire spreads across vast amounts of land from Belgium to Hungary, and we cannot turn a blind eye anymore, especially now when we're expected to bring peace and prosperity to Europe. Czech independence movements are now fairly popular in the Czech and Slovak regions, and the people have decided to start protesting. If we were to promise these people independence, our popularity in the continent will surely rise, and many nations will see us as less threatening. But if we were to do so, other minorities might rise up and also ask for independence. What should we decide?"
+ empire.23.a:0 "The Berlun Conference"
+ empire.23.b:0 "Back down"
+ empire.24.t:0 "Our New Trade Policy"
+ empire.24.d:0 "Now that we have opened our borders for foreign trade and changed our trade policy we are in a position to choose many trade agreements from a lot of different countries. Some of these countries have proposed some trading offers for valuable resources. Who should we trade with?"
+ empire.24.a:0 "Oil - Russy Federation"
+ empire.24.b:0 "Aluminum - Francois Republic"
+ empire.24.c:0 "Tungsten - Legadonia Federation"
+ empire.24.f:0 "Steel - Allied Kingdom"
+ empire.24.e:0 "Chromium - Magna Rumeli"
+ empire.25.t:0 "Pact against the Russy Federation"
+ empire.25.d:0 "The Empire has sent delegates to many neighboring countries proposing a defensive pact with each signing member if attacked by the Russy Federation. It might benefit us in the long run, as the Federation is indeed a threatening force at our doorsteps, but it might also damage us as we don't know much about the Empire's ambitions. Should we sign the pact?"
+ empire.25.a:0 "Sign it."
+ empire.25.b:0 "Decline."
+ empire.26.t:0 "Hiltria Accepts"
+ empire.26.d:0 "Earlier this morning we have recieved a radio message stating that the country of Hiltria has accepted our demand for the region of Zara. Although not connected to our country, this region will provide us with an access to the Adriatic Sea. Through there we won't have a problem moving military weapons and dominating the Mediterranean Sea."
+ empire.26.a:0 "Another victory for the Vaterland."
+ empire.27.t:0 "Hiltria Declines"
+ empire.27.d:0 "Earlier this morning we have recieved a radio message stating that the country of Hiltria has declined our demand for the region of Zara. '...Zara is a very important part of our country and citizens, and we will never give it to a foreign force.' was their explanation. We are left with no choice but to accept the humiliating answer."
+ empire.27.a:0 "We just wanted this small region!"
+ empire.28.t:0 "A secret treaty with the Russy Federation?"
+ empire.28.d:0 "It is well known that the Russy Federation is our enemy. The strongest one. But to achieve our goals, we must deal with the devil first. Our military advisors have come with an idea to form a non-agression pact with the Russy Federation. Of course, the pact wouldn't last for long, as its sole purpose is to buy time for us to acquire more territories and achieve our militaristic ambitions. Should we form the pact? Our neighbors won't like it, especially our enemies."
+ empire.28.a:0 "Send the proposal!"
+ empire.28.b:0 "No way we'll accept such a proposal."
+ empire.29.t:0 "The Russy Federation Rejects the Treaty"
+ empire.29.d:0 "Russy officials have just sent us a message regarding our secret proposal. It seems they declined it, and are not wishing to cooperate with us. Now that we need to watch our shared border closer than ever, It'll be harder to continue with our ambitions. They will regret this moment. Surely. "
+ empire.29.a:0 "Damn them!"
+ empire.30.t:0 "The Russy Federation Accepts!"
+ empire.30.d:0 "It seems the Russy Federation has accepted our proposal of a secret non-agression pact. We have sent our finest general, von Zettour, to sign the secret treaty near our shared border in Lublin. This great move will surely benefit our country, and we shall be ready for the real fight soon."
+ empire.30.a:0 "The Vaterland does not know defeat."
+ empire.31.t:0 "Speech of the Emperor"
+ empire.31.d:0 "Earlier today, the Emperor has given a very important speech to the public through the radio. In the speech, the emperor commented on the need to rearm the country to defend from foreign evil powers such as the Republic and the Russy Federation. In addition to that, he also praised the people for cooperating with the government in repairing the economy. '..the Empire is much more stable today, because of you - the people...' he said."
+ empire.31.a:0 "Long live the Emperor!"
+ empire.32.t:0 "The Ildoans offer an Armistice"
+ empire.32.d:0 "An Ildoan delegation has arrived earlier this morning with a proposal of an armistice between our two countries, which states that the Ildoan Kingdom will transfer ownership of the Istrian region to us in exchange for peace between our countries and no further land claiming. Should we accept the armistice? After all, the whole purpose of the war was to annex Istria and show our superiority to the Ildoans."
+ empire.32.a:0 "Accept the armistice."
+ empire.32.b:0 "Reject it."
+ empire.200.t:0 "The African Campaign"
+ empire.200.d:0 "It seems that The Republic has not fully surrendered. Moments after our forces entered Parisii, most of The Republican Free Army has already sailed to the colonies, mainly North Africa, to continue the fight. All our attempts to pursue peace with them have been met with failure. The Francois puppet we have set up has managed to occupy north Tunis and has asked us to support the effort with the African campaign. Should we send there troops and eventually manage to drive the Republican Free Army away? Or should we first center on Europe only?"
+ empire.200.a:0 "Send the Afrika Corps!"
+ empire.200.b:0 "Africa? Isn't all of it a desert?"
+
+ #GER border war
+ empire.500.t:0 "A Border War in Scania!"
+ empire.500.d:0 "We have just recieved a high-classified important report from the northern HQ, sir! It seems that some Legadonian forces have started moving to our shared border in Scania! Legadonian artillery is mass shooting and soldiers are advancing rapidly. We have to prepare our forces and defend our lands as fast as possible!"
+ empire.500.a:0 "Defend, Strike, Take!"
+ empire.501.t:0 "Our soldiers are victorious"
+ empire.501.d:0 "After a couple days of inconclusive skirmishes at the northern front in Norden, our soldiers there report that the Legadonian troops have fled the area, leaving their borders undefended. Our Chief of Staff Lieutenant General von Ludwig and the majority in the General Staff have elected to mobilize the reserves to start an invasion of the Entente Alliance. They state that with Legadonian troops on the retreat and unorganised, it is safe to say that they will surrender quickly. There is no sign that anyone else has mobilized, so it's unlikely that someone will attack us if we do invade. However, the Deputy Chief of Operations von Rudersdorf, along with Deputy Chief of the Service Corps, von Zettour, are against an all out attack, highlighting that such an invasion goes against Plan 315 and would leave us vulnerable, and the Entente Alliance is so weak to begin with that there's little to gain from invading them."
+ empire.501.a:0 "The Legadonians have picked a fight and they shall get it."
+ empire.501.b:0 "We are not ready, yet."
+ empire.502.t:0 "We have lost."
+ empire.502.d:0 "Legadonian forces have outnumbered us, and overpowered us with their mass artillery and mage shooting. It is not the fault of our military though, as we were caught offguard by the cowardly Legadonians. We must take Scania back someday."
+ empire.502.a:0 "Damn the Legadonians."
+ empire.504.t:0 "Rudersdorf's Plan"
+ empire.504.d:0 " One of our army chiefs advisors, Kurt von Rudersdork, came up with a plan to expand the armed forced and get new recruits. The plan includes an alternative to our strict recruitment policy, which will increase the number of soliders eligible for recruitment. The only disadvantage of the plan is that our army would not be able to keep its level of quality. Do we proceed with the plan?"
+ empire.504.a:0 "Proceed with the plan."
+ empire.504.b:0 "This plan sounds better..."
+ empire.596.t:0 "The Imperials Demand the Island of Crete"
+ empire.596.desc:0 "Should we hand over the island of Crete to our Imperial friends? They are helping us economically and could prove to be good allies. Should we give Crete to the bastards?"
+ empire.596.a:0 "Hand them the island."
+ empire.596.b:0 ""The Empire"? LOL, new phone who dis??"
+ empire.597.t:0 "The Magna Rumeli Accepts"
+ empire.597.d:0 "The ambassador to the Magna Rumeli has sent a message earlier today informing our government of the withdrawal of all Rumeli personnal from the island. They have officially handed it over to us. Good lads."
+ empire.597.a:0 "Good."
+ empire.598.t:0 "The Magna Rumeli Declines"
+ empire.598.d:0 "The ambassador to the Magna Rumeli has sent a message earlier today informing our government that the Magna Rumeli prince has refused our claim to the island. Damn him."
+ empire.598.a:0 "We will conquer them as well when we finish in Europe."
+ #end
+ #1920 elections
+ empire.505.t:0 "The 1920 Elections"
+ empire.505.d:0 "The 1918 economic crisis threatened to destroy our Fatherland. Many Imperial citizens lost their homes, destined to die on the street. Our currency became essentially useless due to inflation, citizens often preferred to burn their money to stay warm rather than attempt to scrounge up enough to buy food. The crisis continued until government intervention began to improve the situation by the end of 1919. However, even in 1920, the aftershocks of the initial disaster are still felt. In fact, reforming the economy is the main issue discussed by the political parties vying for power in the 1920 elections. \n\nThe Monarchists are assumed to be the victors of the election, they favor economic independence and the nationalization of certain valuable companies. They also hope to reform the military into the most formidable fighting force on the continent. \n\nThe Monarchists' main rivals are the Democratic faction. Hoping to reform the Empire into a bastion of democracy, the Democrats faction plan to open up trade with the other democracies of our continent and issue government bailouts to struggling companies. \n\nThe final political group cotending in the election are the Communists. Before the economic crisis, the Communists were reserved to small splinter factions protesting the Monarchist government. However, due to the crisis, they began to gather a larger following. The communists wish to expand workers' rights and give back to the common people. Though, they have rather radical ideas about the fate of the Emperor and those loyal to him... \n\nWho will guide the Fatherland through this tumultuous time?"
+ empire.505.a:0 "The monarchists remain in power."
+ empire.505.b:0 "The democrats win the elections."
+ empire.505.c:0 "The communists win the elections."
+ empire.506.t:0 "A Democracy or The People?"
+ empire.506.d:0 "Right after the announcement to hold elections, Democratic and Communist supporters have started their political struggle, we must choose who we will support!"
+ empire.506.a:0 "Support The Democrats"
+ empire.506.b:0 "Support The Communists"
+ #end
+ #SOV Empire Russy alliance #Note: replaced below
+ #soviet.65.t:0 "Our Imperial Comrades Desire to Join Us"
+ #soviet.65.d:0 "After the Communist victory in the Empire, our comrades desire to join us and expand the great socialist revolution"
+ #soviet.65.a:0 "Welcome my Comrades!"
+ #soviet.65.b:0 "We don't need those fake Communists"
+ #end
+ #Empire join Communist Bloc
+ news.444.t:0 "The Empire Joins The Communist Bloc"
+ news.444.d:0 "After the Communist victory, the Empire has grown closer to the Russy Federation, now they have decided to make their alliance official"
+ news.444.a:0 "Those Communists are a menace to society"
+ news.444.b:0 "For the People!"
+ #end
+ #1st Purge
+ empire.507.t:0 "The Imperialist Purge!"
+ empire.507.d:0 "After the communist victory, rumor has it that the army is preparing a coup. We must stop them to protect our people, but where should we start?"
+ empire.507.a:0 "Purge the Military!"
+ empire.507.b:0 "Purge the Government!"
+ empire.507.c:0 "Purge Everyone!"
+ #end
+ #Imperial Palace Burning
+ news.445.t:0 "The Imperial Palace burns!" 
+ news.445.d:0 "This morning the Imperial Palace reduced to nothing but ash. The fire was started 2 days ago on the orders of the Volk Council, all of the books, antiques and luxurious furnishings have been seized and sold to finance the party."
+ news.445.a:0 "Such a waste"
+ news.445.b:0 "Down with the bourgeoisie!"
+ #end
+ #We need a field Marshal
+ empire.508.t:0 "The Generals’ Trial"
+ empire.508.d:0 "After our peaceful revolution, conspiracy is rampant everywhere! Certain individuals seek to overthrow the people’s rule! We must decide what to do with the general staff. Their loyalty is in question, especially since we have evidence of a potential plot!"
+ empire.508.a:0 "Hang Them!!"
+ empire.508.b:0 "Just keep a close eye on them"
+ #end
+ #Magier Purge
+ empire.509.t:0 "The End of the Mages"
+ empire.509.d:0 "After having a long time to  deliberate, the Volk Council has decided on the fate of the Mages, indeed those monarchist scum will certainly try to stage a counter-revolution, we have to stop them."
+ empire.509.a:0 "Death to these monsters"
+ #end
+ #The Fate of Imperial Family
+ empire.510.t:0 "The Fate of Imperial Family"
+ empire.510.d:0 "Almost all of the Monarchists have been purged. With only the Imperial Family left alive, the Volk Council is indecisive on what their fate should be and want to hear your opinion. Should the Imperial Family be executed? Or should we simply exile them?"
+ empire.510.a:0 "Execution!"
+ empire.510.b:0 "Exile!"
+ #end
+ #The Death of the Imperial Family
+ news.446.t:0 "The Death of the Imperial Family"
+ news.446.d:0 "Yesterday the rumours were confirmed, the Emperor and his family have been executed by the Volk Council, the world weeps and all fear the hell of the revolution."
+ news.446.a:0 "This Revolution is Brutal!"
+ news.446.b:0 "Death to our oppressors!"
+ #end
+ #Imperial Counter coup
+ empire.511.t:0 "Imperial Counter Coup"
+ empire.511.d:0 "After the death of the Imperial family, the remaining monarchists have decided to take up arms and are rising against us!"
+ empire.511.a:0 "Filthy traitors"
+ #end
+ #Imperial Family fled
+ ildoa.22.t:0 "Imperial Family flee to our kingdom"
+ ildoa.22.d:0 "After being exiled from their country, the Imperial family have decided to seek refuge in Ildoa. We should accept them to help rally the Imperial cause."
+ Ildoa.22.a:0 "Welcome to Ildoa"
+ #end
+ #Red Brigade
+ empire.512.t:0 "The Red Brigade"
+ empire.512.d:0 "After our Revolution, the Volk Council feared an uprising within the army, as such the Council has decided to create a new corps to protect the Revolution."
+ empire.512.a:0 "That's a good idea"
+ #end
+ #Research Partnership
+ empire.513.t:0 "Research Partnership?"
+ empire.513.d:0 "Our friends, the Burlun Commune, are offering a research partnership with us, this could be beneficial not only for us but also for them, should we accept?"
+ empire.513.a:0 "Sound Good"
+ empire.513.b:0 "No way!"
+ #end
+ #Accepted partnership
+ empire.514.t:0 "Russy accept our Research Partnership"
+ empire.514.d:0 "After much deliberation, the Russy Federation have decided to accept our research partnership.” 
+ empire.514.a:0 "Excellent"
+ #end
+ #Rejected partnership
+ empire.515.t:0 "Russy reject our Research Partnership"
+ empire.515.d:0 "After much deliberation, the Russy politicians have decided to decline our research partnership, they seem to think we cannot be trusted."
+ empire.515.a:0 "Selfish Scum!"
+ #end
+ #Spread Communism to the West
+ empire.516.t:0 "Western Imperial Communism Spreading"
+ empire.516.d:0 "Today in a long speech the supreme secretary raised the point of spreading the revolution to us. We should probably respond to these threats but are we prepared to do so? Should we fear it?"
+ empire.516.a:0 "Those Scum!"
+ #end
+ #The Imperial Communist Ultimatum
+ empire.517.t:0 "The Imperial Communist Ultimatum"
+ empire.517.d:0 "After influencing our politics they now dominate the minds of our people, we should have seen this coming. Of course we could’ve stopped it, but now we can only choose between our honor and our lives!"
+ empire.517.a:0 "Communism isn't that bad..."
+ empire.517.b:0 "Die, glory to Waldstatten!"
+ #end
+ #Waldstatten refuse
+ empire.518.t:0 "Waldstatten refuse our Ultimatum"
+ empire.518.d:0 "Here's Waldstatten answer, they refused to submit, they'll serve the people forever. We must punish them! but how? Those burghers could find allies, so we will have to choose between brutal force or diplomacy"
+ empire.518.a:0 "They never learn"
+ empire.518.b:0 "Let their people teach them!"
+ #end
+ #The Imperial Communist Ultimatum
+ empire.519.t:0 "The Imperial Communist Ultimatum"
+ empire.519.d:0 "After Influencing our internal politics, we now stand on the precipice of a communist uprising, we should’ve seen this coming. Now we’re left with the choice between our honor and our lives!"
+ empire.519.a:0 "Communism isn't that bad..."
+ empire.519.b:0 "Die, glory Ildoa!"
+ #end
+ #Ildoa refuse
+ empire.520.t:0 "Ildoa refuse our Ultimatum"
+ empire.520.d:0 "Here's Ildoa's answer, they refused to submit. They say they'll serve the people forever, we must punish them! but how? Those bourgeoisie dogs could find allies, we will have to choose between brutal force or diplomatic guile"
+ empire.520.a:0 "They never learn"
+ empire.520.b:0 "Let their people teach them!"
+ #end
+ #Spread Communism to the East
+ empire.521.t:0 "Eastern Berlun Commune Communism Spreading"
+ empire.521.d:0 "Today in a long speech the supreme secretary raised the point of spreading the revolution to us. We should probably respond to these threats but are we prepared to do so? Should we fear it??"
+ empire.521.a:0 "We'll defend our nation!"
+ #end
+ #Dacia Communism
+ empire.522.t:0 "Berlun Commune Propaganda Success"
+ empire.522.d:0 "After a concerted effort to spread their revolution to the Dacian homeland, we now have to accept the harsh truth. The Berlun Commune has turned the hearts and minds of the people against us and violence is now spilling out into the streets. We are now left with the grim choice to abandon our homeland to the communists or go against the wishes of our own people."
+ empire.522.a:0 "We cannot go against the will of the People."
+ empire.522.b:0 "We will never submit!"
+ #end
+ #Dacia Accept
+ empire.523.t:0 "Dacia Embrace The Revolution"
+ empire.523.d:0 "The Dacian people have risen up and successfully overthrown their oppressors. The Grand Duke and his government have fled and sought refuge with the François Republic and revolution continues to grow stronger day by day. The Dacian people are finally free!"
+ empire.523.a:0 "Ura!"
+ #end
+ #Dacia refused
+ empire.524.t:0 "Dacia Represses its Citizens"
+ empire.524.d:0 "After the people took to the streets and demanded their freedom, the cruel Dacian leadership proved how monstrous they truly are by ordering troops into the street to fire on their own citizens! This suppression of peaceful protest cannot go unchallenged, we must help the Dacian people!"
+ empire.524.a:0 "Sometimes freedom must be paid for with blood"
+ #end
+ #Hiltia Communism
+ empire.525.t:0 "Berlun Commune Propaganda Success"
+ empire.525.d:0 "After a concerted effort to spread their revolution to the Hiltrian soil, we now have to accept the harsh truth. The Berlun Commune have turned the hearts and minds of the people against us and violence is now spilling out into the streets. We are now left with the grim choice to abandon our homeland to the communists or go against the wishes of our own people."
+ empire.525.a:0 "We cannot go against the will of the People"
+ empire.525.b:0 "We shall never submit!"
+ #end
+ #Hiltria Accept
+ empire.526.t:0 "Hiltria Embrace The Revolution"
+ empire.526.d:0 "The Hiltrian people have risen up and successfully overthrown their oppressors. The Regency council and the young heir have fled and sought refuge with the Kingdom of Ildoa and revolution continues to grow stronger day by day. The Hiltrian people are finally free!"
+ empire.526.a:0 "Ura!"
+ #end
+ #Hiltria refused
+ empire.527.t:0 "Hiltria Subjugates its Citizens"
+ empire.527.d:0 "In a shocking display of callous disregard for the wishes of their people, the Hiltrian leadership has ordered their army to restore order and subdue their citizens for daring to demand their freedom. Such cruel subjugation of the proletariat and the loyal revolutionaries cannot be ignored, we must help the Hiltrian people."
+ empire.527.a:0 "Sometimes freedom must be paid for with blood"
+ #end
+ #Integrate Hilria
+ empire.528.t:0 "Berlun Commune Request our Integration"
+ empire.528.d:0 "After the communist victory, our comrades in the Berlun Commune now want us to join them as an integrated puppet. Should we unite as one people? Or stay independent of our new friend?"
+ empire.528.a:0 "We Stand as one!"
+ empire.528.b:0 "No! We value our independence"
+ #end
+ #Hiltria Accept
+ empire.529.t:0 "Hiltria Join with us"
+ empire.529.d:0 "After careful consideration, our Hiltrian friends have decided to join hands with us in friendship. Now that our realms are united, we are one step closer to finalizing our glorious revolution!"
+ empire.529.a:0 "For the People!"
+ #end
+ #Hiltria Refuse
+ empire.530.t:0 "Hiltria Refuse Integration"
+ empire.530.d:0 "They Refused us! After all we did to free them from their shackles of their oppressive masters, they refused our offer to unite with us. It is clear now that they are nothing more than untrustworthy leeches on our economy who care nothing for the Great socialist revolution"
+ empire.530.a:0 "We must punish them!"
+ #end
+ #Integrate Dacia
+ empire.531.t:0 "Berlun Commune Request our Integration"
+ empire.531.d:0 "After the communist victory, our comrades in the Berlun Commune now want us to join them as an integrated puppet. Should we unite as one people? Or stay independent of our new friend?"
+ empire.531.a:0 "We Stand as one!"
+ empire.531.b:0 "No! We value our independence"
+ #end
+ #Dacia Accept
+ empire.532.t:0 "Dacia Join with us"
+ empire.532.d:0 "After careful consideration, our Hiltrian comrades have decided to join thier hands with us in friendship. Now that our realms are united, we are one step closer to finalizing our glorious revolution!"
+ empire.532.a:0 "Glory to the People!"
+ #end
+ #Dacia Refuse
+ empire.533.t:0 "Dacia Refuse Integration"
+ empire.533.d:0 "They Refused us! After all we did to free them from their shackles of their oppressive masters, they refused our offer to unite with us. It is clear now that they are nothing more than untrustworthy leeches on our economy who care nothing for the Great socialist revolution!"
+ empire.533.a:0 "Those fake revolutionaries stay are not true communists!"
+ #end
+ #Secure East Russy Ally
+ empire.534.t:0 "Treaty of Satisfaction"
+ empire.534.d:0 "After our territorial expansion into the Balkans we should now secure our eastern borders. To do so, the Council have made the decision to approach the Russy Federation with a deal. In exchange for our claim in Carpathia, the Federation would get Bessarabia, thus ending the territorial disputes between the two nations. Now we just have to hope that they accept"
+ empire.534.a:0 "Send it!"
+ #end
+ #Imperial Offers
+ empire.535.t:0 "An Offer from The Berlun Commune"
+ empire.535.d:0 "The Socialist Volk Council has approached us with a proposal. They ask us to abandon our Rutherian lands for them to secure the Commune’s eastern border but in exchange we would receive Bessarabia from Dacia as compensation. We should study this carefully."
+ empire.535.b:0 "No way!"
+ empire.535.a:0 "This looks fair"
+ #end
+ #Russy Refuse
+ empire.536.t:0 "Russy Refuse"
+ empire.536.d:0 "The Russy response is outright refusal, do they want chaos in these regions? It seems our friends are reluctant to part with their lands, but for now, we can't do anything except move forward..."
+ empire.536.a:0 "Such a Waste"
+ #end
+ #Russy Accept
+ empire.537.t:0 "Russy Accept"
+ empire.537.d:0 "The Russy have accepted, and the people cheer! The Russy have signed the treaty of Satisfaction and we can now look to the West without worry as our border is now safe and secure."
+ empire.537.a:0 "Cheer Comrades!"
+ #end
+ #Russy Treaty of Satisfaction
+ empire.538.t:0 "Treaty of Satisfaction"
+ empire.538.d:0 "We will now give up our old lands and accept others as our own, goodbye Carpathia."
+ empire.538.a:0 "Hello Bessarabia"
+ #end
+ #Dacia Treaty of Satisfaction
+ empire.539.t:0 "Treaty of Satisfaction"
+ empire.539.d:0 "I guess we have no choice... we're stuck between them and we can't do anything to stop them. Perhaps if we were allies we could secure a better deal"
+ empire.539.a:0 "We hope for the Best"
+ #end
+ #Secure East Alone
+ empire.540.t:0 "Border Securing"
+ empire.540.d:0 "We need to secure our border, we can't trust the Russy. They seek to spread their fake revolution and undermine our own, we must do something!"
+ empire.540.a:0 "A Good Idea"
+ #end
+ #Imperial Socialist Ultimatum
+ empire.541.t:0 "Berlun Commune Ultimatum"
+ empire.541.d:0 "After influencing the Balkans it seems it is now our turn. We should probably act with caution because they're strong and determined, what should we do?"
+ empire.541.a:0 "We Accept"
+ empire.541.b:0 "No way!"
+ #end
+ #Russy Accept
+ empire.542.t:0 "Russy Agreed to Our Demands"
+ empire.542.d:0 "Our dominance is now total! The Russy have accepted our demands. Now we are the dominant force of the revolution, we must industrialize them to integrate them into our realms"
+ empire.542.a:0 "Make it Quick"
+ #end
+ #Russy Refuse
+ empire.543.t:0 "Russy Denied Our Offer"
+ empire.543.d:0 "Those Russy scum refused our offer, we should teach them! The Fools! We must teach them a lesson that they'll never forget! Glory to the Motherland!"
+ empire.543.a:0 "We'll Teach them!"
+ #end
+ #Secure The West
+ empire.544.t:0 "Western Protection"
+ empire.544.d:0 "After completing our revolution the Western bourgeois started to mobilize, that's why we need to protect ourselves to prepare our world revolution. Then we can strike back and free all all the world's peoples"
+ empire.544.a:0 "Weaken Hispania"
+ empire.544.b:0 "Secure Ildoa"
+ empire.544.c:0 "Protect Ourselves"
+ #end
+ #Communist Rising In Hispania
+ empire.545.t:0 "Communism Rise"
+ empire.545.d:0 "After Ildoa and Waldstatten it's now our turn. The people are becoming endeared with communist ideals, we should probably try to fight this spread, but how? They're helped by the Burlun Commune!"
+ empire.545.a:0 "We're screwed"
+ #end
+ #Ildoa Secure
+ empire.546.t:0 "Burlun Commune Demands"
+ empire.546.d:0 "After our revolution against the king, the Berlun Commune senses our weakness, today they ask us to join them and give them our lands for "our protection" we are caught between the Republic and the Burlun Commune, so perhaps we should be friends."
+ empire.546.a:0 "We don't Really Have a Choice"
+ #end
+ #The Communist Riot
+ empire.547.t:0 "Hispanian Communist Rise"
+ empire.547.d:0 "Our Hispanian operation is a success! We can make them rise and fight the bourgeoisie, but they still seem weak, what should we do?"
+ empire.547.a:0 "Rise up Hispanian Workers!"
+ empire.547.b:0 "We should wait a bit"
+ #end
+ #Ildoa Join Us
+ empire.548.t:0 "Ildoa Join Us"
+ empire.548.d:0 "After taking some time to reflect on things our Ildoan comrades have accepted our offer and have decided to join our alliance, the revolution grows day by day!"
+ empire.548.a:0 "Ura!"
+ #end
+ #The Hispanian Question
+ empire.549.t:0 "The Hispanian Question"
+ empire.549.d:0 "After days and days of hesitation the Volk Council started to become impatient. The Hispanian situation will be out of control if we continue to wait! We must strike now!"
+ empire.549.a:0 "Then Strike!"
+ #end
+ #Imperial Socialist Funds Rebels
+ republic.17.t:0 "Berlun Commune Funded the Rebels"
+ republic.17.d:0 "After days of spying we've discovered the truth. The Berlun Commune has been funding the rebels and are arming them. We have to send our men to help the Hispanians! They're our friends and we can't let those scum spread their anarchy!"
+ republic.17.a:0 "We're Coming!"
+ #end
+ #Republic help Us!
+ republic.18.t:0 "The Republic Send Help!"
+ republic.18.d:0 "After seeing all our hopes fall, we now have a chance to win! The Republican volunteers have come to help us against these vile communistists!"
+ republic.18.a:0 "Thank you!"
+ #end
+ #Hispanian Civil war
+ news.442.t:0 "The Hispanian Civil War"
+ news.442.desc:0 "After days of rioting, the Hispanian people finally decided to rise up and organize themselves into a socalist regime. As the situation is evolves, it appears the socialist are actually winning."
+ news.442.a:0 "Our Plan is Working"
+ news.442.b:0 "No way!"
+ news.442.c:0 "When this will stop?"
+ news.442.d:0 "Down with the Burgher!"
+ #end
+ #Republican Intervention in the Hispanian Civil War
+ news.443.t:0 "Republican Intervention in the Hispanian Civil War"
+ news.443.desc:0 "In response to recent events the Republic has decided to intervene in the Hispanian civil war. Although the "Volontaires Espagnoles" came to help the hispanians fight the communists, this is a daring move could possibly escalate into a war. Prepare yourselves for the fire burns in Europe"
+ news.443.a:0 "Our Saviors are coming"
+ news.443.b:0 "Take This Socialist Scum!"
+ news.443.c:0 "THOSE BASTARDS!"
+ news.443.d:0 "Hope they'll bring back peace"
+ news.443.e:0 "Burgher always helps each other"
+ #end
+ #Imperial Civil War
+ empire.550.t:0 "Imperial Civil War"
+ empire.550.d:0 "After our recent purge somes generals have gathered soldiers to overthrow the Volk Council, now they've begun a coup and we're at war! We must protect the will of the people!!"
+ empire.550.a:0 "For the Motherland!"
+ #end
+ #Lack of General Staff
+ empire.551.t:0 "Lack of General Staff"
+ empire.551.d:0 "After the recent purges and trials, our army is standing without leaders. This is far too dangerous, we need leaders! Now!"
+ empire.551.a:0 "Promote newly formed Generals"
+ #end
+ #Russy accept our Alliance
+ empire.552.t:0 "Russy accept our Alliance Offer"
+ empire.552.d:0 "After some deliberation, the Russy government accepted our offer of an alliance, other countries are mobilizing but they can't stop the duty of workers!"
+ empire.552.a:0 "Cheer Comrades!"
+ #end
+ #Russy refuse our Alliance
+ empire.553.t:0 "Russy refuse our Alliance Offer"
+ empire.553.d:0 "That's a shame! The Russy, our only friends refused our alliance, maybe they aren't strong enough for us? That's not that bad, they need to get stronger, that's all"
+ empire.553.a:0 "We have to wait"
+ #end
+ #Berlun Conference
+ empire.554.t:0 "The Berlun Conference"
+ empire.554.d:0 "Needless to say, the eastern europe nations fear us. That's why we have to make a step forward and show them our good faith to improve our relationships with them."
+ empire.554.a:0 "Good initiative"
+ #end
+ #Berlun Conference Russy
+ empire.555.t:0 "The Berlun Conference"
+ empire.555.d:0 "We have just received an invitation to the Berlun Conference as a show of the Imperials good faith, but with the the recent political changes, can we trust them?"
+ empire.555.a:0 "Let's Accept"
+ empire.555.b:0 "No way"
+ #end
+ #Berlun Conference Hilria
+ empire.556.t:0 "The Berlun Conference"
+ empire.556.d:0 "We have just received an invitation to the Berlun Conference as a show of the Imperials good faith, but with the the recent political changes, can we trust them?"
+ empire.556.a:0 "Let's Accept"
+ empire.556.b:0 "No way"
+ #end
+ #Berlun Conference Dacia
+ empire.557.t:0 "The Berlun Conference"
+ empire.557.d:0 "We have just received an invitation to the Berlun Conference as a show of the Imperials good faith, but with the recent political changes, can we trust them?"
+ empire.557.a:0 "Let's Accept"
+ empire.557.b:0 "No way"
+ #end
+ #Berlun Conference Russy Accept
+ empire.558.t:0 "Russy Agreed"
+ empire.558.d:0 "We have received the Russy response! And they agreed to the Berlun Conference, it's the first step of the peace in Europe!"
+ empire.558.a:0 "We will raise a toast in honor of the Russy Federation"
+ #end
+ #Berlun Conference Russy Refuse
+ empire.559.t:0 "Russy Refuse"
+ empire.559.d:0 "That's a cold answer that we got from the Russy Federation, they refused the Berlun Conference, sadly we can't trust them."
+ empire.559.a:0 "We cannot rely on them"
+ #end
+ #Berlun Conference Hilria Accept
+ empire.560.t:0 "Hiltria Agreed"
+ empire.560.d:0 "We have received the Hiltria response! And they agreed to the Berlun Conference, it's the first step of the peace in Europe!"
+ empire.560.a:0 "We will raise a toast in honor of Hiltria"
+ #end
+ #Berlun Conference Hiltria Refuse
+ empire.561.t:0 "Hiltria Refuse"
+ empire.561.d:0 "That's a cold answer that we got from Hiltria, they refused the Berlun Conference, sadly we can't trust them."
+ empire.561.a:0 "We cannot rely on them"
+ #end
+ #Berlun Conference Dacia Accept
+ empire.562.t:0 "Dacia Agreed"
+ empire.562.d:0 "We have received the Dacia response! And they agreed to the Berlun Conference, it's the first step of the peace in Europe!"
+ empire.562.a:0 "We will raise a toast in honor of Dacia"
+ #end
+ #Berlun Conference Dacia Refuse
+ empire.563.t:0 "Dacia Refuse"
+ empire.563.d:0 "That's a cold answer that we got from Dacia, they refused the Berlun Conference, sadly we can't trust them."
+ empire.563.a:0 "We cannot rely on them"
+ #end
+ #Empire Ask for Sanction Removal
+ empire.564.t:0 "Empire Ask for Sanction Removal"
+ empire.564.d:0 "After the recent political changes, the Empire looks less threatening as it slowly opens itself to foreign countries, but should we be less hard with them, and accept their demands?"
+ empire.564.a:0 "Yes of course!"
+ empire.564.b:0 "Let us be cautious"
+ empire.564.c:0 "Never!"
+ #end
+ #The Republic Removed our Sanctions
+ empire.565.t:0 "The Republic Removed our Sanctions"
+ empire.565.d:0 "Considering our recent changes, the Republic has decided to be more friendly toward us, we now have to wait for the response from Legadonia"
+ empire.565.a:0 "We will raise a toast in honor of the Republic"
+ #end
+ #Empire Ask for Sanction Removal (Legadonia)
+ empire.566.t:0 "Empire Ask for Sanction Removal"
+ empire.566.d:0 "Following the recent political changes of the Empire, the Republic sent us a bill asking what we should do about Scania, shall we cede it to them?"
+ empire.566.a:0 "Scania shall be ceded"
+ empire.566.b:0 "No way!"
+ #end
+ #Allies refuse to remove our sanctions
+ empire.567.t:0 "Allies refuse to remove our sanctions"
+ empire.567.d:0 "Despite all of our recent change and our initiative in looking more friendly, the Allies refuse to concede to our demands, it's definitive that they can't be trusted!"
+ empire.567.a:0 "those selfish bastards"
+ #end
+ #Legadonia accepts the cessation of Scania!
+ empire.568.t:0 "Legadonia agrees to cede Scania!"
+ empire.568.d:0 "After years of conflict over this region, the border had finally been settled! The Legadoniadonia Federation has finally ceded Scania to us! It's the beginning of a deep and friendly relationship!"
+ empire.568.a:0 "We will raise a toast in honor of the Legadonia Federation"
+ #end
+ #Legadonia refused to cede Scania!
+ empire.569.t:0 "Legadonia refuses to cede Scania!"
+ empire.569.d:0 "It seems that our negotiations with the Legadonia Federation have failed because they have refused to trust us and to give us Scania, this was a great opportunity for the peace in the north, but it seems they only want war..."
+ empire.569.a:0 "Ugh.. That's hard"
+ #end
+ #Empire join Russy
+ soviet.65.t:0 "The Berlun Commune seek to join the Communist Bloc"
+ soviet.65.d:0 "Following the recent political changes in the Fatherland, the Volk Council have announced the desire for their nation to join the Communist Bloc, shall we accept them? This risk is sure to anger the capitalist world"
+ soviet.65.a:0 "Screw those capitalists, Welcome comrade!"
+ soviet.65.b:0 "We’ll have to refuse"
+ #end
+ #The Empire seek closer ties
+ soviet.66.t:0 "The Imperial Republic seeks Economical Ties"
+ soviet.66.d:0 "After making a step forward to us the Imperial Republic now open their industries to our investissement, this could be a way to improve our industries or to spread our influence!"
+ soviet.66.a:0 "Let's help them economically!"
+ soviet.66.b:0 "Let's spread our influence!"
+ #end
+ #Russy have decided to help us!
+ soviet.67.t:0 "The Russy help us Economically!"
+ soviet.67.d:0 "The Russy have decided to help us economically!"
+ soviet.67.a:0 "Amazing!"
+ #end
+ #Russy is influencing our politic
+ soviet.68.t:0 "The Russy is influencing our Policy"
+ soviet.68.d:0 "The Russy have exploit our opening to influence our politic"
+ soviet.68.a:0 "Screw the Russy!"
+ #end
+ #The Empire invite us in our faction (hiltria)
+ empire.570.t:0 "The Imperial Republic invite us to the Eastern Europe Defense Committee"
+ empire.570.d:0 "Following the recent political changes the Fatherland has become more friendly towards us, and now they're inviting us in their faction, shall we accept?"
+ empire.570.a:0 "We can trust them!"
+ empire.570.b:0 "We can't trust them"
+ #end
+ #Hiltria joined our faction
+ empire.571.t:0 "Hiltria joins our faction"
+ empire.571.d:0 "Hiltria have announced their desire to join our faction!"
+ empire.571.a:0 "Europe is slowly more and more protected"
+ #end
+ #Hiltria refuse to join our faction
+ empire.572.t:0 "Hiltria refuse to join our faction"
+ empire.572.d:0 "Sad day for the peace in Europe, Hiltria refused to join our faction."
+ empire.572.a:0 "That's their right"
+ #end
+ #The Empire invite us in our faction (dacia)
+ empire.573.t:0 "The Imperial Republic invite us to the Eastern Europe Defense Committee"
+ empire.573.d:0 "Following the recent political changes the Fatherland became more and more friendly toward us, and now they're inviting us in their faction, shall we accept?"
+ empire.573.a:0 "We can trust them!"
+ empire.573.b:0 "We can't trust them"
+ #end
+ #Dacia joined our faction
+ empire.574.t:0 "Dacia joins our faction"
+ empire.574.d:0 "Dacia have announced their desire to join our faction!"
+ empire.574.a:0 "Europe is slowly more and more protected"
+ #end
+ #Dacia refuse to join our faction
+ empire.575.t:0 "Dacia refuse to join our faction"
+ empire.575.d:0 "Sad day for the peace in Europe, Dacia refused to join our faction"
+ empire.575.a:0 "That's their right"
+ #end
+ #Empire offer Concession
+ empire.576.t:0 "The Empire offer Concession"
+ empire.576.d:0 "In order to show their good faith the Imperial Republic asked us what we want to maintain peace and they'll concede it. If it's possible, of course."
+ empire.576.a:0 "Ask for a buffer zone"
+ empire.576.b:0 "We need nothing, we trust them"
+ #end
+ #Republic ask a DMZ
+ empire.577.t:0 "Republic ask for a buffer zone"
+ empire.577.d:0 "After our offer to make concessions, the Republic have asked for a buffer zone"
+ empire.577.a:0 "It's a temporary thing to maintain peace"
+ #end
+ #Republic demand nothing
+ empire.578.t:0 "The Republic demand nothing"
+ empire.578.d:0 "After our offer of concession the Republic have asked nothing"
+ empire.578.a:0 "Excellent!"
+ #end
+ #A new constitution
+ empire.579.t:0 "A new Constitution"
+ empire.579.d:0 "After our recent political changes we need a constitution, but one question still remains, shall we make a Republic or a Constitutional Monarchy?"
+ empire.579.a:0 "A Constitutional Monarchy"
+ empire.579.b:0 "A Republic"
+ #end
+ #Imperialist Uprising
+ empire.580.t:0 "Imperialist Uprising"
+ empire.580.d:0 "After the abolition of the monarchy, the loyalists of the monarchy decided to strike in an effort to shut down the new republic!"
+ empire.580.a:0 "We will destroy them!"
+ #end
+ #Imperial Civil War
+ news.447.t:0 "The Imperial Civil War"
+ news.447.d:0 "After the abolition of the monarchy, the imperialists have decided to strike out against the democratic government, now we have to wait and see what's going on."
+ news.447.a:0 "Let’s sit and watch"
+ news.447.b:0 "Let's dance!"
+ #end
+ #The Scania Conference
+ empire.581.t:0 "The Scania Conference"
+ empire.581.d:0 "Following the decrease of tension between the Federation and the Empire, the Empire have decided to open a Conference in order to solve the problem of Scania"
+ empire.581.a:0 "Scania for an Alliance"
+ #end
+ #The Scania Conference 2
+ empire.582.t:0 "The Scania Conference: Republic Offer"
+ empire.582.d:0 "The Republic replied to us! They ask Scania in exchange for an alliance! This is an opportunity to prove ourselves and show that we aren't the monster we were"
+ empire.582.a:0 "We accept"
+ #end
+ #The Scania Conference 3
+ empire.583.t:0 "The Scania Conference: Imperial Offer"
+ empire.583.d:0 "The Empire has accepted our terms! Now Europe shall be peaceful for thousands of years and maybe even forever!"
+ empire.583.a:0 "Glory to democracy!"
+ #end
+ #Empire ask for Cameroon
+ empire.584.t:0 "The Empire ask for Cameroon"
+ empire.584.d:0 "Following the recent policy of recovering their colonies, the Empire has asked us for Cameroon"
+ empire.584.a:0 "Of course my friend"
+ empire.584.b:0 "It's ours now"
+ #end
+ #Empire ask for Togo
+ empire.585.t:0 "The Empire ask for Togo"
+ empire.585.d:0 "Following the recent policy of recovering their colonies, the Empire has asked us for Togo"
+ empire.585.a:0 "Of course my friend"
+ empire.585.b:0 "It's ours now"
+ #end
+ #Empire ask for Tanganyika
+ empire.586.t:0 "The Empire ask for Tanganyika"
+ empire.586.d:0 "Following the recent policy of recovering their colonies, the Empire has asked us for Tanganyika"
+ empire.586.a:0 "Let give them back to them"
+ empire.586.b:0 "It's ours now"
+ #end
+ #Empire ask for Namibia
+ empire.587.t:0 "The Empire ask for Namibia"
+ empire.587.d:0 "Following the recent policy of recovering their colonies, the Empire has asked us for Namibia"
+ empire.587.a:0 "Let give them back to them"
+ empire.587.b:0 "It's ours now"
+ #end
+ #Zara Purchase
+ empire.588.t:0 "The Zara Purchase"
+ empire.588.d:0 "In order to protect us and expand their influence in the Mediterranean sea the Empire proposes that we sell Zara so that they can build a naval base"
+ empire.588.a:0 "We accept"
+ empire.588.b:0 "No way!"
+ #end
+ #Hiltria accept our offer
+ empire.589.t:0 "Hiltria accept our offer"
+ empire.589.d:0 "Hiltria have accepted our offer"
+ empire.589.a:0 "Amazing"
+ #end
+ #Hiltria refuse our offer
+ empire.590.t:0 "Hiltria refuse our offer"
+ empire.590.d:0 "Hiltria have refused our offer"
+ empire.590.a:0 "Embarrassing"
+ #end
+ #the Valletta Agreement
+ empire.591.t:0 "The Valletta Agreement"
+ empire.591.d:0 "After expanding our influence in the Eastern Europe, we have been invited to act as a mediator in the Ildoan-Magna Rumeli conflict over Libya"
+ empire.591.a:0 "Side with Ildoa"
+ empire.591.b:0 "Side with Magna Rumeli"
+ #end
+ #the Valletta Agreements Turkmen
+ empire.592.t:0 "the Valletta Agreement: The Empire ask us to abandon Libya"
+ empire.592.d:0 "After siding with Ildoa, we now risk a conflict against Ildoa AND the Empire, shall we strike?"
+ empire.592.a:0 "Fine we accept"
+ empire.592.b:0 "We will never surrender!!"
+ #end
+ #the Valletta Agreements Ildoa
+ empire.593.t:0 "the Valletta Agreement: The Empire ask us to abandon Libya"
+ empire.593.d:0 "After siding with Magna Rumeli, the Empire demand now that we surrender Libya to Magna Rumeli"
+ empire.593.a:0 "Ugh.. Fine!"
+ empire.593.b:0 "Never!"
+ #end
+ #Magna Rumeli refuse the Valletta agreement
+ empire.594.t:0 "Magna Rumeli refuse the Valletta Agreement"
+ empire.594.d:0 "The Magna Rumeli have refused to agreed to the Valletta Agreement"
+ empire.594.a:0 "We must do something!"
+ empire.594.b:0 "We did our job"
+ #end
+ #Ildoa refuse the Valletta agreement
+ empire.595.t:0 "Ildoa refuse the Valletta Agreement"
+ empire.595.d:0 "Ildoa have refused to agreed to the Valletta Agreement"
+ empire.595.a:0 "We must do something!"
+ empire.595.b:0 "We did our job"
+ #end
+ #Demand more from dacia
+ empire.599.t:0 "[EMP.GetName] Demands Transylvania from us"
+ empire.599.d:0 "[EMP.GetName] demands Transylvanian region from us. Should we give them while they are asking for it?"
+ empire.599.a:0 "We better hand it over."
+ empire.599.b:0 "Over our dead body!"
+ empire.600.t:0 "We gain control over Transylvania"
+ empire.600.d:0 "[DAC.GetName] decided to live a little longer and cede the Transylvanian region to us. Such a wise move from them."
+ empire.600.a:0 "This is a glorious day"
+ empire.601.t:0 "A demand refused"
+ empire.601.d:0 "[DAC.GetName]’s leadership is full of fouls or have no will to live. The refused our generous offer to govern the Transylvanian region instead of them."
+ empire.601.a:0 "If they do not understand words we should use force"
+ empire.601.b:0 "That soil doesn't worth even a drop of imperial blood"
+ #end
+ #NOP with EMP
+ empire.602.t:0 "[EMP.GetName] wants to sign a non-aggression pact."
+ empire.602.d:0 "This can be a sign of both good intentions and bad. Should we take this opportunity to build up our forces? Refusing this pact would surely harm our relationship with them. "
+ empire.602.a:0 "Let’s take this opportunity."
+ empire.602.b:0 "We shouldn’t sign this."
+ empire.603.t:0 "Our non-aggression pact request is accepted"
+ empire.603.d:0 "With [FROM.GetName] signing the pact, the number of our enemies have decreased, at least we hope so.."
+ empire.603.a:0 "All goes according to the plan."
+ empire.604.t:0 "Non-aggression pact refused"
+ empire.604.d:0 "Our generous offer for a non-aggression pact was denied by [FROM.GetName]. If peace is not an option then the Empire's populace is happy to take arms against [FROM.GetName]."
+ empire.604.a:0 "We will take this into account."
+ # end
+ # Join monarchist pact (faction)
+ empire.605.t:0 "Faction Invitation."
+ empire.605.d:0 "[EMP.GetName] wants us to join [FROM.GetFactionName], so in case of a conflict we will aid and shield each other."
+ empire.605.a:0 "We accept the offer, united we stand."
+ empire.605.b:0 "We are strong enough on our own."
+ empire.606.t:0 "New member"
+ empire.606.d:0 "[ROOT.GetFactionName] grows stronger, if we continue like this we can take on the whole world in the future."
+ empire.606.a:0 "As expected."
+ empire.607.t:0 "Refusal"
+ empire.607.d:0 "[FROM.GetName] refused our offer to join [ROOT.GetFactionName]. Everybody who is not with us is a potential threat."
+ empire.607.a:0 "We will watch them."
+ #end
+ # Leg question (north)
+ empire.608.t:0 "The question of Legadonian’s border."
+ empire.608.d:0 "Our relationship with [LEG.GetName] is a fragile one. We can provoke them, but that may lead to international outrage. Or we can defuse the whole situation by giving the land they claim back and focus on a more important enemy."
+ empire.608.a:0 "Provoke [LEG.GetName] and remilitarize the Norden border."
+ empire.608.b:0 "Suggest a non-aggression pact."
+ empire.608.c:0 "Give Scania to Legadonia, and suggest a non-aggression pact"
+ empire.609.t:0 "Scania is remilitarized!"
+ empire.609.d:0 "The imperial fools remilitarized Scania giving us a great opportunity to escalate the conflict into a war, where the world would consider [EMP.GetName] as aggressors. In case we need more time to build up our forces we can threaten them with war, that should do the trick"
+ empire.609.a:0 "Escalate it!"
+ empire.609.b:0 "Threaten them to stand down"
+ empire.610.t:0 "Status qou"
+ empire.610.d:0 "[EMP.GetName] wants to keep the current Status quo at our comunal border. Leaving Scania exposed for our army and claims"
+ empire.610.a:0 "[EMP.GetName] surely respects us!"
+ empire.610.b:0 "[EMP.GetName] fears our might!"
+ empire.611.t:0 "Scania is ours"
+ empire.611.d:0 "[EMP.GetName] gave Scania back with the conditions that it remains a demilitarised zone. They will even send a non-aggression pact request later."
+ empire.611.a:0 "What are they up to?"
+ empire.611.b:0 "They come to their senses."
+ #Empire is threatened to stay down by LEG
+ empire.625.t:0 "We are threatened!"
+ empire.625.d:0 "[LEG.GetName] is threatening us to leave Scania, if we do not demilitarise the zone again they will make a move against us."
+ empire.625.a:0 "Our troops leave Scania at once"
+ empire.625.b:0 "What can they do? Start a war?"
+ #The Empire keeps going
+ empire.626.t:0 "[EMP.GetName] doesn't listen."
+ empire.626.d:0 "This is truly outrageous! They heard our warning yet they ignored our demands. We will show them the power of ... "
+ empire.626.a:0 "... an armed conflict"
+ empire.626.b:0 "... international outrage"
+ #end
+ #Buying Istria from ILD
+ empire.612.t:0 "Purchase of Istria"
+ empire.612.d:0 "Istria was our territory, and it is as important strategically as having a good relationship with [ILD.GetName]. Maybe we can trade for it or even buy it.."
+ empire.612.a:0 "Ask them if they are interested in us buying Istria back."
+ empire.612.b:0 "Trade Tyrol for the region.."
+ empire.612.c:0 "Give up our claims to solidify our relationship."
+ empire.613.t:0 "Sell Istria?"
+ empire.613.d:0 "[EMP.GetName] wants to buy Istria from us. This can benefit our economy, but our populace may not like this idea."
+ empire.613.a:0 "Tell them we accept the deal."
+ empire.613.b:0 "Istria is important for us we will keep it.."
+ empire.614.t:0 "Trade with [IEMPLD.GetName]"
+ empire.614.d:0 "[EMP.GetName] offers us Tyrol in exchange for Istria.  This way [EMP.GetName] will have access to the southern sea. Accepting the deal will surely improve our relationship."
+ empire.614.a:0 "This is a great deal, send the diplomats."
+ empire.614.b:0 "Inform [EMP.GetName] we are not interested."
+ empire.615.t:0 "Deal accepted"
+ empire.615.d:0 "The wise Ildoan government choosed to accept our glorious offer. Mow Istria belongs to its rightful owners."
+ empire.615.a:0 "This will lead to a great relationship."
+ empire.616.t:0 "[ILD.GetName] choose to refuse."
+ empire.616.d:0 "We do not harbour good enough relationship with [ILD.GetName] and this led us here. Istria remains theirs."
+ empire.616.a:0 "So the situation remains"
+ #end
+ #reach ILD
+ empire.617.t:0 "[EMP.GetName] asks for help."
+ empire.617.d:0 "[EMP.GetName] wants us to provide whatever help we can for them "
+ empire.617.a:0 "Join [FROM.GetFactionName]."
+ empire.617.b:0 "Provide them financial support"
+ empire.617.c:0 "They should stand on their own."
+ empire.618.t:0 "Ildoa joins [ROOT.GetFactionName]"
+ empire.618.d:0 "The wise Ildoan leadership decided to provide us in future conflicts."
+ empire.618.a:0 "A step closer to European rule."
+ empire.619.t:0 "Financial support arrives"
+ empire.619.d:0 "Ildo provides us with financial support, but doesn’t join [ROOT.GetFactionName]. Their help is appreciated but we are a bit disappointed."
+ empire.619.a:0 "It’s more than nothing"
+ empire.620.t:0 "No help received. "
+ empire.620.d:0 "Ildoan diplomats said They can’t afford to help us in their current situation. "
+ empire.620.a:0 "What a gibberish!"
+ #end
+ #reach RUM NOT in faction
+ empire.621.t:0 "Reach out for Magna Rumeli"
+ empire.621.d:0 "The manpower of Magna Rumeli and their border could be useful in the upcoming fight against Russy, We can stretch out their forces and easily wipe them out. But we should consider helping Rumeli, so they are more prepared for a war."
+ empire.621.a:0 "Help Rumeli  and ask them to join [ROOT.GetFactionName] in return"
+ empire.621.b:0 "Ask them to join us."
+ empire.622.t:0 "An Offer"
+ empire.622.d:0 "[FROM.GetName] offers great financial support if we join [FROM.GetFactionName]."
+ empire.622.a:0 "Of course we will join"
+ empire.622.b:0 "We do not want them to drag us into something."
+ empire.623.t:0 "A Request"
+ empire.623.d:0 "[EMP.GetName] wants us to join [EMP.GetFactionName]. This will mean protection for us,but it can be dangerous, [EMP.GetName] can drag us into trouble as well. "
+ empire.623.a:0 "This will be net benefit"
+ empire.623.b:0 "This is too dangerous"
+ #end
+ #reach RUM in Faction
+ empire.624.t:0 "Help Rumeli? "
+ empire.624.d:0 "Our faction member [RUM.GetName] is not prepared for a war. We should decide if we want to boost their economy, so they will be more useful for us."
+ empire.624.a:0 "Send support"
+ empire.624.b:0 "It’s not worth it, to aid them-"
+ #end
+#Empire continuous war plan
+ empire.627.t:0 "Continuous War Plan"
+ empire.627.d:0 "We can squeeze our nation to make the final push into the enemy. But if peace isn't achieved by the time our plan ends. We will need to compensate the people. So we should choose our plan carefully."
+ empire.627.a:0 "We will achieve victory in 2 year, be gentle with the nation"
+ empire.627.b:0 "We will achieve victory in a year a little squeeze is enough"
+ empire.627.c:0 "We will achieve victory in 6 months we can be harsh."
+ #end
+ #Empire continuous war plan buff ended malus started
+ #2 year
+ empire.628.t:0 "Continuous War Plan Failed"
+ empire.628.d:0 "2 year has passed and we are not victorious. Fortunately we didn’t put a big burden on our people. We will manage the situation somehow. "
+ empire.628.a:0 "Let the relief start."
+ #1 year
+ empire.629.t:0 "Continuous War Plan Failed"
+ empire.629.d:0 "A year has passed and we are not victorious. The nation is tired, we should give them a little freedom to wiggle around."
+ empire.629.a:0 "Let the relief start."
+ #0.5 year
+ empire.630.t:0 "Continuous War Plan Failed"
+ empire.630.d:0 "6 months has passed and we are not victorious. We are on the brick of a collapse. The normalization will be costly.."
+ empire.630.a:0 "Let the relief start."
+ #end
+ #Empire ask west for help
+ empire.631.t:0 "[EMP.GetName] asks for support"
+ empire.631.d:0 "Request from [EMP.GetName]. They need support against [RUS.GetName] in the East. We should consider sending help. But who doesn’t want to [EMP.GetName] see bleed?"
+ empire.631.a:0 "[RUS.GetName] is the more dangerous one."
+ empire.631.b:0 "Let them bleed each other out."
+ #Empire receives help ... if any
+ empire.632.t:0 "All the help has arrived"
+ empire.632.d:0 "The diplomats have returned, and now we know how many nation is backing us"
+ empire.632.a:0 "This is all the help that we got right now"
+ #end
+
+ 
+ #Empire forced to disarm on puppet
+ empire.1001.t:0 "Disarming the Empire"
+ empire.1001.d:0 "Due to our defeat in the war, we have been forced to disarm. Conscription is now banned, and many national industries have been privatized."
+ empire.1001.a:0 "Woe to the vanquished"
+ #end
+ #Russy peace event chain
+ empire.1100.t:0 "Russy Peace Proposal"
+ empire.1100.d:0 "Ildoa has presented a peace proposal on Russy's behalf. However, the only concessions they are willing to offer is independence plebiscite on territories we occupied and nothing more. How shall we respond?"
+ empire.1100.a:0 "The army is tired, we agree."
+ empire.1100.b:0 "Ridiculous!"
+ empire.1101.t:0 "Russy wishes to sue for peace"
+ empire.1101.d:0 "Russy diplomats have informed us that they wish us to pass on a peace proposal. Should we do so on their behalf?"
+ empire.1101.a:0 "Why not?"
+ empire.1101.b:0 "Why?"
+ empire.1102.t:0 "Peace signed with [FROM.GetName]"
+ empire.1102.d:0 "[FROM.GetName] has agreed to our terms. A series of buffer states have been formed, separating the two countries."
+ empire.1102.a:0 "Live to fight another day."
+ empire.1103.t:0 "Peace signed with [FROM.GetName]"
+ empire.1103.d:0 "[FROM.GetName] has rejected our peace offer."
+ empire.1103.a:0 "The war continues."
+ news.930.t:0 "The Peace of Rappalo"
+ news.930.d:0 "[ILD.GetName]'s mediation between [FROM.GetName] and [PREV.GetName] has borne fruit. The two warring parties has signed peace at Rappalo, Ildoa. [FROM.GetName] did not press any demands, and [PREV.GetName] granted its occupied territory independence."
+ news.930.a:0 "Not the best terms, but victory nonetheless."
+ news.930.b:0 "We must rest before we can reculperate our losses."
+ news.930.c:0 "After Russy, we are next."
+ news.930.delta:0 "Time to invest in map publishing companies."
+ 
+ #these are placeholder and helpers they shall be removed
+ empire.1100.t:0 "Russy Peace Proposal"
+ empire.1100.d:0 "Ildoa has presented a peace proposal on Russy's behalf. However, the only concessions they are willing to offer is independence plebiscite on territories we occupied and nothing more. How shall we respond?"
+ empire.1100.a:0 "The army is tired, we agree."
+ empire.1100.b:0 "Ridiculous!"
+ 

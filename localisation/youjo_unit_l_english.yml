@@ -1,0 +1,7 @@
+﻿l_english:
+ mages:0 "Mages"
+ mages_desc:0 "Though more mobile and hard hitting than a normal infantry division, these mages lack the HP or organization for prolonged fights."
+ mage_spotters:0 "Mage Spotters"
+ mage_spotters_desc:0 "These specially trained mages act as spotters and advanced recon forces for the main division. Granting better recon than conventional spotters."
+ cav_artillery_brigade:0 "Horse Artillery"
+ cav_artillery_brigade_desc:0 "Well-trained horse artillery units allow heavy support to catch up with faster elements."

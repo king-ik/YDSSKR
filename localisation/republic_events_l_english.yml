@@ -1,0 +1,283 @@
+﻿l_english:
+ ### Old Vichy France-esque events (no longer used) ###
+ republic.10.t:0 "The Empire Has Won"
+ republic.10.d:0 "It is undeniable that we have lost. Imperial forces are already moving deep in our territory and any more resistence would be in vain. We should submit to the Empire and by doing so we will have the option to remain an independent nation, although we will become a puppet of the Empire. We must choose wisely: death or dishonor?"
+ republic.10.a:0 "Become Occupied Francois"
+ republic.10.b:0 "Fight on! Free Francois!"
+ republic.14.t:0 "The Republic Offers an Armistice"
+ republic.14.d:0 "It seems that the Republic is finally aware of the fact that they have lost the battle. We are far superior in terms of military and combat ability than their pesky little army, and it wasn't a big problem crushing them. If we accept the armistice, we will have the chance to focus right away on our eastern enemies. Should we accept the armistice even though there's a large number of Republican troops that still oppose us, and the fight will go on? Or should we crush all of them even though it will take more time?"
+ republic.14.a:0 "A Fair Deal"
+ republic.14.b:0 "Decline the Armistice"
+ republic.15.t:0 "The Empire Refuses Armistice"
+ republic.15.d:0 "The cowards generals of The Empire has refused our kind armistice terms and are beginning to launch a full offensive to capture our most southern lands in mainland Europe and afterwards the colonies! We must mobilise every man and woman to fight for the cause of the country!"
+ republic.15.a:0 "Vive Le Republic!"
+ ### End old events ###
+ republic.107.t:0 "Vive la République"
+ republic.107.d:0 "Since the loss of our territories to the hated Empire years ago, the proud spirit of the François Republic has waned, leaving the people restless and demoralised. Worse still the recent economic crash has left the country in shambles, leaving many more dissatisfied. With workers striking and people taking to the streets, we must take measures to rebuild our nation and rekindle the people’s faith in the government. If La Grande République is to survive and reclaim its rightful place on the world stage, we will have to implement sweeping and possibly radical reforms to bring the country back under control. We cannot let our great nation fall by the wayside."
+ republic.107.a:0 "Vive la François!"
+ republic.108.t:0 "Send in the Military"
+ republic.108.d:0 "The Republic has always been a proud beacon of freedom and Liberty, but even liberty has its limits. If the strikes and riots continue, and public order is not restored, the Great Republic and its loyal patriots will be in danger. Immediate action must be taken to keep the peace. If these people cannot be reasoned with, we may be forced to use stronger measures against these protestors. Although regrettable, that is the fate of those who are disloyal to the Republic."
+ republic.108.a:0 "We have to secure the streets."
+ republic.109.t:0 "Economic Situation"
+ republic.109.d:0 "Since the market crash, the economy has fallen into a recession and this has been the cause of many of our great nation’s recent troubles. Now that we have started to regain the trust of the people, we must act to reverse some of the damage done to our economy. Although unpopular with many, devaluing the currency and helping indebted companies will go a long way to helping rebuild trust in Republican markets and industry."
+ republic.109.a:0 "These hard times will surely end."
+ republic.110.t:0 "Mandatory and Laic Public Education"
+ republic.110.d:0 "The education system of our republic was another unfortunate victim of the economic crash. Many schools across the nation were forced to close due to lack of funding. Now that the economy has began stabilizing, the government is looking to finance state-sponsored schools. These schools will educate a new generation of François citizens about our prestigous past, the wrongdoings dealt to us by the wretched Empire, and to trust in God. If the Republic is to free our continent from the Empire, then we must instill a patriotic fervor into the youth of our nation!"
+ republic.110.a:0 "Good."
+ republic.111.t:0 "Exclude Religious Instruction from Schools"
+ republic.111.d:0 "Continuing the sweeping social reforms, the Republican government today barred religious instruction within state schools. The decision has initially caused widespread backlash from religious leaders, who argue that the churches and other such institutions have long been intertwined with our school system and they view this as an attack on the very soul of society. However, leading academics, claim that the dogmatic approach of these religious teachings not only stifle the academic potential of the students within these institutions but in some cases actively hinder their research efforts. This has caused some concerns that this may lead to us falling behind in the sciences. If we are to keep up with the other world powers, we must invest in our future and focus on properly educating today’s students."
+ republic.111.a:0 "It is for the good of the Republic."
+ republic.112.t:0 "Exploit the Colonies"
+ republic.112.d:0 "The François Republic's colonial territories are vast. We control land stretching from the expansive deserts of the Southern Continent, to the lush jungles in the Far East. These territories contain large amounts of untapped natural resources. With our Republic in dire need of more materials, we must increase local quotas to meet the needs of our people. The locals won't be happy about the sudden increased workload, but a few angry subjects is a small price to pay for the prosperity of the great Republic! Vive la François!"
+ republic.112.a:0 "It must be done."
+ republic.112.b:0 "We cannot risk a rebellion in the colonies."
+ republic.113.t:0 "The Federation's Proposal"
+ republic.113.d:0 "Perhaps sensing a potential thawing in diplomatic relations due to the socialist policies currently being implemented by our republic, the Russy Federation has reached out with an interesting proposal. As a show of good will, our once ally has offered an industrial aid plan to help us during the ongoing economic crisis.  The National relief plan will help supplement our own economic incentives and reforms, which will further speed up our recovery. The scheme’s critics claim the plan is a transparent attempt by the Federation to meddle in Françiosi affairs, but many believe this to be a genuine offer of diplomatic aid from the usually isolationist eastern giant and perhaps the beginning of a stronger relationship between the two powers."
+ republic.113.a:0 "Could this be the first steps to renewing our alliance?"
+ republic.113.b:0 "We cannot trust these maniacs."
+ republic.114.t:0 "Solidify our Rule"
+ republic.114.d:0 "The efforts to reform society and stabilise our economy have been an unprecedented success and a sense of national pride and solidarity has once again taken root in the hearts of our people. With the crisis over, the Republican General Council has declared a national day of unity and used the event to address the people about the future of La Grande République. In their address, they thanked the people for their hard work before announcing it is now the time for the Republic to look outside its own borders. Although we have a firm alliance with the Legadonians in the north and a cordial relationship with the Hispanic Republic. The Allied Kingdom are fair-weather friends at best and are more interested in maintaining naval supremacy than interfering with the affairs of the continent. \n\nMeanwhile, our hated neighbour and rival, the Empire, threatens our borders once more as they grow steadily in military and industrial power. While the Kingdom of Ildoa has sought closer relations with them. We must look at ways to counter these emerging threats to our Republic and take our rightful place as the premier world power."
+ republic.114.a:0 "Vive la République!"
+ republic.115.t:0 "Emergency Cabinet Meeting"
+ republic.115.d:0 "Despite the peace and prosperity enjoyed by our people since resolving the national crisis, the government has been rocked by a new emerging disaster. One of our agents working within the Imperial war machine has sent an encrypted communique containing secret files directly from the army headquarters in Berlun. Contained within this message is the shocking revelation that the Empire is planning an invasion and the Imperial General staff have begun drawing up plans to strike both the Republic and our ally the Legadonian Federation. In response, the President has called an emergency meeting of the High Cabinet and its military advisors to discuss how to counter this new bout of Imperial aggression. \n\nDistressingly, the Generals had brought even more disturbing news. Only days ago, the Republic’s armed forces conducted major military exercises that have revealed worrying deficiencies within the military. Both the Navy and the air fleet have proven to be dangerously outdated compared to our contemporaries. Meanwhile in the army has found many of its troops to be poorly trained and dangerously unequipped. They have also found that poor leadership amongst some officers has caused such a lack of discipline that troops often panicked or ignored orders when under fire. Comparatively, the empire seems to be well trained, have no shortage of manpower or material and its war college graduates are rumoured to be some of the finest officers in the world. \n\nMajor General De Lugo ended his briefing with a dire warning that chilled the attending ministers to the bone, “If the Empire attacks now, the Republic will fall."
+ republic.115.a:0 "We must reform the military before it is too late."
+ republic.116.t:0 "The Far Eastern War"
+ republic.116.d:0 "The recent war that has broken out in the Far East is worrying. The Akitsushima Dominion is similar to the Empire, they are an autocratic country devoted to conquest. Left unchecked, the Dominion could become a large thorn in our side, possibly threatening our thriving colony of Veetnam. In order to preempt this threat, we must send volunteers and equipment to China. By helping them in their fight against the Akitsushima Dominion, we may be able to prevent the Dominion from further conquest of the East, whilst also possibly securing China as an ally."
+ republic.116.a:0 "We have to help them."
+ republic.116.b:0 "We need to look after ourselves first."
+ republic.117.t:0 "A New Kind of Warfare"
+ republic.117.d:0 "Previously, there were three dimensions of warfare: aerial, naval, and land warfare. In our modern era, there now exists a fourth and equally important dimension of warfare: information warfare. We have trained an elite group of spies to infiltrate both the Empire's Supreme High Command and their General Staff. With our people on the inside, the Empire's plans will become transparent, and our military will be better prepared for their attacks. We shall topple the rotten structure of the Empire!"
+ republic.117.a:0 "Indeed."
+ republic.118.t:0 "Reforming the Cabinet"
+ republic.118.d:0 "Our economic recession caused an immense political power vacuum. Many corrupt cabinent members rose to power, taking advantage of our Republic's momentary time of weakness. The current officials are incompotent and aloof, they have failed our nation in its time of need. We must quickly reshuffle the cabinet in order to prevent these blundering politicians from obstructing progress within the great Republic. The old ministers will be replaced by a new generation of highly skilled advisors who are ready to serve the Francois Republic and bring our country into a new time of prosperity and greatness."
+ republic.118.a:0 "Next we should reform the high command as well."
+ republic.119.t:0 "Through Waldstatten?"
+ republic.119.d:0 "It might seem unthinkable, but one of our military advisors, Max Glalois, came up with a plan that bypasses the Imperial forts stretching throughout our border with the Empire. By going through the neutral country Waldstatten, we will be able to strike the Empire from the bottom and advance to Berlun in no time. The army of Waldstatten is very small, unexperienced and untrained. It will be very easy to advance through the country."
+ republic.119.a:0 "Let us defeat the Empire!"
+ republic.120.t:0 "Secret Treaty with the Ildoans"
+ republic.120.d:0 "Our relationship with the Kingdom of Ildoa has been strained. Despite their territorial disputes with the Empire, our nation fears that the Ildoans may ally themselves with the Imperials if a war breaks out. However, the Ildoan military is flawed and their economy is unprepared for war, which may give us the leverage we need to convince them to sign our proposed treaty. If they agree to the treaty, the Ildoans will pledge to remain neutral in the event of a war between our Republic and the Empire."
+ republic.120.a:0 "Send the proposal."
+ republic.120.b:0 "They can join the Empire. We will crush them as well!"
+ republic.121.t:0 "The Ildoan Kingdom Accepts"
+ republic.121.d:0 "The Ildoans accepted the secret treaty, and will remain neutral in case a war breaks out between us and the Empire."
+ republic.121.a:0 "Good."
+ republic.122.t:0 "The Ildoans Refuse"
+ republic.122.d:0 "The Ildoans refused our secret treaty proposal, and will not guarentee their neutrality in case a war breaks out between us and the Empire."
+ republic.122.a:0 "Damn them."
+ #end
+ #Colonial Empire Maintaining
+ republic.21.t:0 "Status of the Colonies"
+ republic.21.d:0 "For decades a big chunk of Africa has been under our direct control, but when we colonised the lands we haven't really taken care of the population, we must now gain their approval at any cost"
+ republic.21.a:0 "We should offer autonomy"
+ republic.21.b:0 "We must expand our influence"
+ #end
+ #Malgeria choose Integration
+ republic.22.t:0 "Malgeria have chosen Integration"
+ republic.22.d:0 "After an unbearable wait Malgeria have finally annouced their desire to remain in the Republic, glory to the François Republic"
+ republic.22.a:0 "Amazing"
+ #end
+ #Malgeria choose Independance
+ republic.23.t:0 "Malgeria have chosen Independance"
+ republic.23.d:0 "After an unbearable wait Malgeria have annouced their answer, and regrettably their have chosen the path of independence, we cannot rely on them anymore"
+ republic.23.a:0 "Such a waste"
+ #end
+ #Mauritania choose Integration
+ republic.24.t:0 "Mauritania have chosen Integration"
+ republic.24.d:0 "After an unbearable wait Mauritania have finally annouced their desire to remain in the Republic, glory to the François Republic"
+ republic.24.a:0 "Amazing"
+ #end
+ #Mauritania choose Independance
+ republic.25.t:0 "Mauritania have chosen Independance"
+ republic.25.d:0 "After an unbearable wait Mauritania have annouced their answer, and regrettably their have chosen the path of independence, we cannot rely on them anymore"
+ republic.25.a:0 "Such a waste"
+ #end
+ #Mali choose Integration
+ republic.26.t:0 "Mali have chosen Integration"
+ republic.26.d:0 "After an unbearable wait Mali have finally annouced their desire to remain in the Republic, glory to the François Republic"
+ republic.26.a:0 "Amazing"
+ #end
+ #Mali choose Independance
+ republic.27.t:0 "Mali have chosen Independance"
+ republic.27.d:0 "After an unbearable wait Mali have annouced their answer, and regrettably their have chosen the path of independence, we cannot rely on them anymore"
+ republic.27.a:0 "Such a waste"
+ #end
+ #Guinea choose Integration
+ republic.28.t:0 "Guinea have chosen Integration"
+ republic.28.d:0 "After an unbearable wait Guinea have finally annouced their desire to remain in the Republic, glory to the François Republic"
+ republic.28.a:0 "Amazing"
+ #end
+ #Guinea choose Independance
+ republic.29.t:0 "Guinea have chosen Independance"
+ republic.29.d:0 "After an unbearable wait Guinea have annouced their answer, and regrettably their have chosen the path of independence, we cannot rely on them anymore"
+ republic.29.a:0 "Such a waste"
+ #end
+ #Ivory Coast choose Integration
+ republic.30.t:0 "Ivory Coast have chosen Integration"
+ republic.30.d:0 "After an unbearable wait Ivory Coast have finally annouced their desire to remain in the Republic, glory to the François Republic"
+ republic.30.a:0 "Amazing"
+ #end
+ #Ivory Coast choose Independance
+ republic.31.t:0 "Ivory Coast have chosen Independance"
+ republic.31.d:0 "After an unbearable wait Ivory Coast have annouced their answer, and regrettably their have chosen the path of independence, we cannot rely on them anymore"
+ republic.31.a:0 "Such a waste"
+ #end
+ #Burkina Faso choose Integration
+ republic.32.t:0 "Burkina Faso have chosen Integration"
+ republic.32.d:0 "After an unbearable wait Burkina Faso have finally annouced their desire to remain in the Republic, glory to the François Republic"
+ republic.32.a:0 "Amazing"
+ #end
+ #Burkina Faso choose Independance
+ republic.33.t:0 "Burkina Faso have chosen Independance"
+ republic.33.d:0 "After an unbearable wait Burkina Faso have annouced their answer, and regrettably their have chosen the path of independence, we cannot rely on them anymore"
+ republic.33.a:0 "Such a waste"
+ #end
+ #Togo choose Integration
+ republic.34.t:0 "Togo have chosen Integration"
+ republic.34.d:0 "After an unbearable wait Togo have finally annouced their desire to remain in the Republic, glory to the François Republic"
+ republic.34.a:0 "Amazing"
+ #end
+ #Togo choose Independance
+ republic.35.t:0 "Togo have chosen Independance"
+ republic.35.d:0 "After an unbearable wait Togo have annouced their answer, and regrettably their have chosen the path of independence, we cannot rely on them anymore"
+ republic.35.a:0 "Such a waste"
+ #end
+ #Dahomey choose Integration
+ republic.36.t:0 "Dahomey have chosen Integration"
+ republic.36.d:0 "After an unbearable wait Dahomey have finally annouced their desire to remain in the Republic, glory to the François Republic"
+ republic.36.a:0 "Amazing"
+ #end
+ #Dahomey choose Independance
+ republic.37.t:0 "Dahomey have chosen Independance"
+ republic.37.d:0 "After an unbearable wait Dahomey have annouced their answer, and regrettably their have chosen the path of independence, we cannot rely on them anymore"
+ republic.37.a:0 "Such a waste"
+ #end
+ #Niger choose Integration
+ republic.38.t:0 "Niger have chosen Integration"
+ republic.38.d:0 "After an unbearable wait Niger have finally annouced their desire to remain in the Republic, glory to the François Republic"
+ republic.38.a:0 "Amazing"
+ #end
+ #Niger choose Independance
+ republic.39.t:0 "Niger have chosen Independance"
+ republic.39.d:0 "After an unbearable wait Niger have annouced their answer, and regrettably their have chosen the path of independence, we cannot rely on them anymore"
+ republic.39.a:0 "Such a waste"
+ #end
+ #Chad choose Integration
+ republic.40.t:0 "Chad have chosen Integration"
+ republic.40.d:0 "After an unbearable wait Chad have finally annouced their desire to remain in the Republic, glory to the François Republic"
+ republic.40.a:0 "Amazing"
+ #end
+ #Chad choose Independance
+ republic.41.t:0 "Chad have chosen Independance"
+ republic.41.d:0 "After an unbearable wait Chad have annouced their answer, and regrettably their have chosen the path of independence, we cannot rely on them anymore"
+ republic.41.a:0 "Such a waste"
+ #end
+ #Cameroon choose Integration
+ republic.42.t:0 "Cameroon have chosen Integration"
+ republic.42.d:0 "After an unbearable wait Cameroon have finally annouced their desire to remain in the Republic, glory to the François Republic"
+ republic.42.a:0 "Amazing"
+ #end
+ #Cameroon choose Independance
+ republic.43.t:0 "Cameroon have chosen Independance"
+ republic.43.d:0 "After an unbearable wait Cameroon have annouced their answer, and regrettably their have chosen the path of independence, we cannot rely on them anymore"
+ republic.43.a:0 "Such a waste"
+ #end
+ #C.A.R choose Integration
+ republic.44.t:0 "Centrafrica have chosen Integration"
+ republic.44.d:0 "After an unbearable wait Centrafrica have finally annouced their desire to remain in the Republic, glory to the François Republic"
+ republic.44.a:0 "Amazing"
+ #end
+ #C.A.R choose Independance
+ republic.45.t:0 "Centrafrica have chosen Independance"
+ republic.45.d:0 "After an unbearable wait Centrafrica have annouced their answer, and regrettably their have chosen the path of independence, we cannot rely on them anymore"
+ republic.45.a:0 "Such a waste"
+ #end
+ #Gabon choose Integration
+ republic.46.t:0 "Gabon have chosen Integration"
+ republic.46.d:0 "After an unbearable wait Gabon have finally annouced their desire to remain in the Republic, glory to the François Republic"
+ republic.46.a:0 "Amazing"
+ #end
+ #Gabon choose Independance
+ republic.47.t:0 "Gabon have chosen Independance"
+ republic.47.d:0 "After an unbearable wait Gabon have annouced their answer, and regrettably their have chosen the path of independence, we cannot rely on them anymore"
+ republic.47.a:0 "Such a waste"
+ #end
+ #Congo-Brazzaville choose Integration
+ republic.48.t:0 "Congo-Brazzaville have chosen Integration"
+ republic.48.d:0 "After an unbearable wait Congo-Brazzaville have finally annouced their desire to remain in the Republic, glory to the François Republic"
+ republic.48.a:0 "Amazing"
+ #end
+ #Congo-Brazzaville choose Independance
+ republic.49.t:0 "Congo-Brazzaville have chosen Independance"
+ republic.49.d:0 "After an unbearable wait Congo-Brazzaville have annouced their answer, and regrettably their have chosen the path of independence, we cannot rely on them anymore"
+ republic.49.a:0 "Such a waste"
+ #end
+ #Congo-Kinshasa choose Integration
+ republic.50.t:0 "Congo-Kinshasa have chosen Integration"
+ republic.50.d:0 "After an unbearable wait Congo-Kinshasa have finally annouced their desire to remain in the Republic, glory to the François Republic"
+ republic.50.a:0 "Amazing"
+ #end
+ #Congo-Kinshasa choose Independance
+ republic.51.t:0 "Congo-Kinshasa have chosen Independance"
+ republic.51.d:0 "After an unbearable wait Congo-Kinshasa have annouced their answer, and regrettably their have chosen the path of independence, we cannot rely on them anymore"
+ republic.51.a:0 "Such a waste"
+ #end
+ #Veetnam choose Integration
+ republic.52.t:0 "Veetnam have chosen Integration"
+ republic.52.d:0 "After an unbearable wait Veetnam have finally annouced their desire to remain in the Republic, glory to the François Republic"
+ republic.52.a:0 "Amazing"
+ #end
+ #Veetnam choose Independance
+ republic.53.t:0 "Veetnam have chosen Independance"
+ republic.53.d:0 "After an unbearable wait Veetnam have annouced their answer, and regrettably their have chosen the path of independence, we cannot rely on them anymore"
+ republic.53.a:0 "Such a waste"
+ #end 
+ #Francois asking USA for planes (REP_western_help)
+ republic.100.t:0 "François Republic requests Lend-Lease"
+ republic.100.d:0 "The François Republic has requested a Lend-Lease program for aircrafts. How shall we respond?"
+ republic.100.a:0 "It is in our interest to help them."
+ republic.100.b:0 "What happens on the other side of the ocean does not concern us."
+ republic.101.t:0 "Unified States refused to provide aircrafts"
+ republic.101.d:0 "The Unified States has reject our request for an aircraft Lend-Lease program."
+ republic.101.a:0 "We are on our own"
+ republic.102.t:0 "Unified States sent aircrafts"
+ republic.102.d:0 "The Unified States has agreed to provide us a significant number of fighters."
+ republic.102.a:0 "Wonderful"
+ #end
+ #REP_united_allied_fleet notification
+ republic.105.t:0 "The United Allied Fleet"
+ republic.105.d:0 "As an ally of the François Republic, we have been invited to join the United Allied Fleet."
+ republic.105.a:0 "Wonderful"
+ republic.106.t:0 "Leaving the United Allied Fleet"
+ republic.106.d:0 "Since we left our former alliance, we are no longer part of the United Allied Fleet."
+ republic.106.a:0 "Ah."
+ #end
+ #Colonial Empire Maintaining
+ republic.2101.t:0 "Status of the Colonies"
+ republic.2101.d:0 "For decades a big chunk of Africa has been under our direct control, but when we colonised the lands we haven't really taken care of the population, we must now gain their approval at any cost"
+ republic.2101.a:0 "We should offer autonomy"
+ republic.2101.b:0 "We must retain our influence"
+ #end
+ #Colonies choosing independence or integration
+ republic.2103.t:0 "The Future of the [ROOT.GetAdjectiveCap] people"
+ republic.2103.d:0 "We have been a colony of [FROM.GetNameDef] for far too long. Now an opportunity presents itself: we have the choice to declare independence or become an integrated part of [FROM.GetNameDef]."
+ republic.2103.a:0 "The [ROOT.GetAdjectiveCap] people are to be full citizens of [FROM.GetNameDef]."
+ republic.2103.b:0 "The [ROOT.GetAdjectiveCap] people shall never be slaves again."
+ #end
+ #[COUNTRY] chooses integration
+ republic.2104.t:0 "[FROM.GetName] have chosen Integration"
+ republic.2104.d:0 "[FROM.GetAdjectiveCap] representatives have arrived at [ROOT.Capital] to announce their request for full [ROOT.GetAdjectiveCap] citizenship. [FROM.GetName] will be part an integral part of [ROOT.GetName] from now on."
+ republic.2104.a:0 "Amazing"
+ #end
+ #[COUNTRY] chooses independence
+ republic.2105.t:0 "[FROM.GetName] have chosen Independence"
+ republic.2105.d:0 "[FROM.GetAdjectiveCap] representatives have announced that [FROM.GetName] is now an independent country with no obligations towards [ROOT.GetName] except those among equal sovereign nations."
+ republic.2105.a:0 "Such a waste"
+ #end 
+ #Fleeing to Turusia
+ republic.2150.t:0 "To Turusia!"
+ republic.2150.d:0 "Parisii has fallen! We must regroup our forces far away from [16.Controller.GetNameDef]!"
+ republic.2150.a:0 "Make haste!"
+ #The Journey Home
+ republic.2151.t:0 "Parisii reclaimed"
+ republic.2151.d:0 "We have retaken Parisii. Hip hip hooray!"
+ republic.2151.a:0 "For a second, I was almost worried we might lose."

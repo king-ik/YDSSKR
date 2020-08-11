@@ -1,0 +1,57 @@
+﻿l_english:
+ REP_FREE_democratic:0 "Free Republic"
+ REP_FREE_democratic_DEF:0 "The Free Republic"
+ REP_FREE_democratic_ADJ:0 "Free Republican"
+ REP_EMP_monarchism_autonomy_YS_province:0 "Occupied François"
+ REP_EMP_monarchism_autonomy_YS_province_DEF:0 "Occupied François"
+ REP_EMP_monarchism_autonomy_YS_vassal:0 "Occupied François"
+ REP_EMP_monarchism_autonomy_YS_vassal_DEF:0 "Occupied François"
+ REP_EMP_monarchism_autonomy_YS_protectorate:0 "Occupied François"
+ REP_EMP_monarchism_autonomy_YS_protectorate_DEF:0 "Occupied François"
+ DAC_EMP_monarchism_autonomy_YS_province_DEF:0 "The Imperial Dacian State"
+ DAC_EMP_monarchism_autonomy_YS_province:0 "Imperial Dacian State"
+ DAC_EMP_monarchism_autonomy_YS_vassal_DEF: "The Dacian Protectorate"
+ DAC_EMP_monarchism_autonomy_YS_vassal:0 "Dacian Protectorate"
+ DAC_EMP_monarchism_autonomy_YS_protectorate_DEF:0 "The Duchy of Dacia"
+ DAC_EMP_monarchism_autonomy_YS_protectorate:0 "Duchy of Dacia"
+ DAC_unified_fascism:0 "Greater Dacia"
+ DAC_unified_fascism_ADJ:0 "Dacian"
+ DAC_unified_democratic:0 "Greater Dacia"
+ DAC_unified_democratic_ADJ:0 "Dacian"
+ DAC_unified_communism_ADJ:0 "Dacian"
+ DAC_unified_communism:0 "Greater Dacia"
+ EMP_puppet_fascism:0 "Imperial State"
+ EMP_puppet_fascism_DEF:0 "The Imperial State"
+ EMP_puppet_monarchism:0 "The Empire"
+ EMP_puppet_monarchism_DEF:0 "The Empire"
+ EMP_puppet_monarchism_ADJ:0 "Imperial"
+ EMP_puppet_democratic:0 "Federal Republic"
+ EMP_puppet_democratic_DEF:0 "The Federal Republic"
+ EMP_puppet_neutrality:0 "The Empire"
+ EMP_puppet_neutrality_DEF:0 "The Empire"
+ EMP_puppet_communism:0 "Berlun Commune"
+ EMP_puppet_communism_DEF:0 "The Berlun Commune"
+ EMP_puppet_fascism_ADJ:0 "Imperial"
+ EMP_puppet_democratic_ADJ:0 "Berlunic"
+ EMP_puppet_neutrality_ADJ:0 "Imperial"
+ EMP_puppet_communism_ADJ:0 "Berlunic"
+ RUS_union_communism_ADJ:0 "The Great Communist Union"
+ RUS_union_communism:0 "Great Communist Union" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,11 @@
+﻿l_english:
+ silver_wings:0 "Silver Wings"
+ silver_wings_desc:0 "Tanya Degurechaff's talent and capabilities inspire the men under her command to daring feats of bravery and skill."
+ mage_officer:0 "Mage Officer"
+ mage_officer_desc:0 "§LTrained as a mage officer.§!"
+ mage_leader:0 "Mage Leader"
+ mage_leader_desc:0 "§LSkilled at using mages to achieve victory.§!"
+ mage_battalion_ratio_over_20:0 "Mage battalion ratio > §H20%§!"
+ canon_character:0 "Canon Character"
+ original_character:0 "Original Character"
+ not_initial_leader:0 "\nNOT initial leader! The actual starting leader has the following traits:\n"

@@ -1,0 +1,14 @@
+﻿l_english:
+ REP_magnier_proposal:0 "The Magnier Proposal"
+ REP_magnier_proposal_desc:0 "The Magnier Proposal is a plan to build massive structures of forts and bunkers along our border with The Empire, which in case of war, will defend us against infantry and artillery attacks. The plan was however changed to include the formation of forts in the southern side, along the shared border of Ildoa in case of a surprise attack."
+ REP_construct_empire_forts:0 "Case Veil"
+ REP_construct_ildoa_forts:0 "Case Gardet"
+ REP_deloffre_decisions:0 "Deloffre's Relief Plan"
+ REP_deloffre_decisions_desc:0 "Economic minister Deloffre has drawn up a daring and innovative relief plan designed to counter the current economic crisis. Although this plan has some vocal opposition from the more conservative members of the High Cabinet, the socialist policies contained within the plan have found a great deal of support from the more liberal members, who believe these more radical measures are necessary in order to stimulate economic growth. The plan involves the Government investing in industry and infrastructure as a way to ease unemployment and hopefully begin reversing the current recession. \n\nCombined with the upcoming reforms, it is hoped that this will lay the foundations for economic growth and eventually lead to a full recovery."
+ REP_deloffre_infra_one:0 "Plan I: Expand the Railroad System"
+ REP_deloffre_infra_two:0 "Plan II: New Jobs"
+ REP_deloffre_infra_three:0 "Plan III: Better Infrastructure"alyzed by internal troubles. To resume interaction with the rest of the world, we have to address these issues first."
+ #Tooltips
+ FRA_support_mages_tt:0 "Spawns the famous §Y'Champagne Mage Divisions'§! to help train our mage recruits!"
+ REP_magnier_proposal_tt:0 "Unlocks a decision tree to build bunkers along our shared-borders with §YThe Empire§! and §YIldoa§!:\n"
+ 

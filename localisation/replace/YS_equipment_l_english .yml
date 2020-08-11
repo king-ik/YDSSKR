@@ -1,0 +1,13 @@
+﻿l_english:
+ gw_tank_equipment:0 "Prototype Tank"
+ gw_tank_equipment_short:0 "Prototype Tank"
+ gw_tank_equipment_desc:0 "As engines become smaller and more powerful, armies around the world began to experiment their military applications. Much like the knights of old, tanks form an armored spearhead that can punch through an infantry line. Early tanks were armed with machineguns and small cannons, moved slowly, and were armored only enough to stop small arms fire."
+ infantry_equipment_0_desc:0 "Basic infantryman equipment developed in the last century."
+ fighter_equipment_0:0 "Early Fighter"
+ fighter_equipment_0_desc:0 "While biplanes underwent many changes in the past decade, they are becoming obsolete, as monoplanes have better energy efficiency and less drag. We must begin to translate civilian technological advances into military applications."
+ strat_bomber_equipment_1_desc:0 "Military theorists envisioned that bombing the enemy's military targets and major cities behind the lines will be crucial in future wars. At the very least, we must have a bomber capable of delivering such destruction. It will need to fly high and at good speed, and it must carry a large payload. This will require a large airframe with multiple engines. It will also have some defensive capability."
+ tac_bomber_equipment_0:0 "Early Bomber"
+ scout_plane_equipment_1_desc:0 "Gathering intelligence on enemy troop movements and providing reports of enemy naval deployments was the original mission for military airplanes before weapons were mounted on them, and is still an important mission."
+ gw_armored_car_equipment:0 "Early Armored Car"
+ interwar_artillery:0 "Improved Munitions"
+ interwar_artillery_desc:0 "Improvement in explosive manufacturing process as well as development of specialized rounds increases the firepower of existing artillery pieces."

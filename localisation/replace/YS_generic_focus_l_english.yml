@@ -1,0 +1,18 @@
+﻿l_english:
+ #Generic focuses that reference WWI in description
+ army_effort_desc:0 "With new technologies becoming available to us, we must figure out how best to use them."
+ motorization_effort_desc:0 "If we are to quickly move around the front, we must adopt the use of trucks and assign other roles for our horses."
+ doctrine_effort_desc:0 "The military doctrines that defined ground combat in the 19th Century are outdated. We must put our greatest minds to the task of shaping the military thought of tomorrow."
+ doctrine_effort_2_desc:0 "The battlefield has changed not just over the turn of the century, but over the course of recent conflicts. We must continuously re-evaluate our doctrines to reflect this."
+ fighter_focus_desc:0 "If we are to prevent the enemy from spotting our movements, we must develop a dedicated aircraft designed to destroy any hostile aircraft."
+ naval_air_effort_desc:0 "It is possible that, with a little modification, we can develop combat aircraft designed to attack enemy naval vessels. Let’s see where this can take us."
+ monarchy_ethos:0 "Monarchist Ethos"
+ monarchy_ethos_desc:0 "By making use of the mass media we can sway the national opinion and increase the popularity of the current monarch. We will also begin a propaganda campaign that will attempt to turn the institution of the monarchy into a national symbol."
+ centralize_power:0 "Centralize Power"
+ centralize_power_desc:0 "Now that support for the monarch is at an all-time high we can begin to chip away at the institutions that have kept us down. Under the guise of “Reducing bureaucratic waste” oneself could justify tying more power to the Monarch."
+ handing_titles_oout:0 "Patronage"
+ handing_titles_oout_desc:0 ""
+ levy_system:0 "Levy System"
+ levy_system_desc:0 ""
+ serfdom_system:0 "Indentured Servitude"
+ serfdom_system_desc:0 ""
