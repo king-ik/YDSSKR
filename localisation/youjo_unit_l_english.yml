@@ -1,7 +1,7 @@
 ﻿l_english:
- mages:0 "Mages"
- mages_desc:0 "Though more mobile and hard hitting than a normal infantry division, these mages lack the HP or organization for prolonged fights."
- mage_spotters:0 "Mage Spotters"
- mage_spotters_desc:0 "These specially trained mages act as spotters and advanced recon forces for the main division. Granting better recon than conventional spotters."
- cav_artillery_brigade:0 "Horse Artillery"
- cav_artillery_brigade_desc:0 "Well-trained horse artillery units allow heavy support to catch up with faster elements."
+ mages:0 "마도대대"
+ mages_desc:0 "일반 보병사단보다 기동성이 좋고, 타격도 강하지만 장기전을 위한 체력이나 조직력이 부족합니다."
+ mage_spotters:0 "마도 정찰대대"
+ mage_spotters_desc:0 "이 특수훈련을 받은 마도대대들은 본대의 고급 정찰병 역할을 합니다. 기존의 대대보다 더 나은 정찰 효과를 받습니다."
+ cav_artillery_brigade:0 "말 포병대"
+ cav_artillery_brigade_desc:0 "잘 훈련된 이 말 포병대는 빠른 적을 격파하기 위해 더욱 효과적입니다."
