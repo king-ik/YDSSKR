@@ -1,7 +1,7 @@
 ﻿l_english:
  ### EQUIPMENT MODULE CATEGORIES ###
- EQ_MOD_CAT_ship_marine_mage_TITLE:0 "Marine Mages"
+ EQ_MOD_CAT_ship_marine_mage_TITLE:0 "마도 해병"
  ### EQUIPMENT MODULES ###
- ship_marine_mage_1:0 "Marine Mages Compartment"
- ship_marine_mage_1_short:0 "Marine Mages"
- ship_marine_mage_1_desc:0 "A compartment for marine mages. Includes living quarters, a weapon arsenal, and orb maintenance facilities"
+ ship_marine_mage_1:0 "해병마도부"
+ ship_marine_mage_1_short:0 "마도 해병"
+ ship_marine_mage_1_desc:0 "마도 해병을 위한 부서입니다. 이들을 위한 무기 및 유지관리 등의 역할을 담당합니다."
