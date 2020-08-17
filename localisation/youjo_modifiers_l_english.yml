@@ -1,5 +1,5 @@
 ﻿l_english:
- modifier_army_sub_unit_mages_attack_factor:0 "Mage Attack"
- modifier_army_sub_unit_mages_defence_factor: "Mage Defense"
- modifier_army_sub_unit_mages_speed_factor:0 "Mage Speed"
- modifier_army_sub_unit_cavalry_speed_factor:0 "Cavalry Speed"
+ modifier_army_sub_unit_mages_attack_factor:0 "마도병 공격"
+ modifier_army_sub_unit_mages_defence_factor: "마도병 방어"
+ modifier_army_sub_unit_mages_speed_factor:0 "마도병 속도"
+ modifier_army_sub_unit_cavalry_speed_factor:0 "기병 속도"
